@@ -1,25 +1,81 @@
 intents:
-- greet
-- goodbye
-- affirm
-- deny
-- mood_great
-- mood_unhappy
+- ask_IfMyPRIsFindButGotAnInvalidLabel
+- ask_IGotRepoHowToHandleSpamPR
+- ask_hacktoberfestMean
+- ask_howJoinHacktoberfest
+- ask_howDoIGetTheSticker
+- ask_ifItIsNotFinish
+- ask_whyMyPRLabeledAsInvalid
+- ask_whyMyPRStatusIsStillInReviewPeriod
+- ask_howToMakePeopleContributeToMyRepo
+- ask_whenIGetTheSwag
+- ask_myPRMarkedAsNotInRepo
+- ask_myPRIsNotCounted
+- ask_howToSeeMyHacktoberfestProgress
+entities:
+- hacktober
 templates:
-  utter_greet:
-  - text: Hey! How are you?
-  utter_cheer_up:
-  - text: 'Here is something to cheer you up:'
-    image: https://i.imgur.com/nGF1K8f.jpg
-  utter_did_that_help:
-  - text: Did that help you?
-  utter_happy:
-  - text: Great carry on!
-  utter_goodbye:
-  - text: Bye
+  utter_invalidLabel:
+  - text: Jika maintainer menjadikan PR Anda sebagai tidak valid, tetapi Anda yakin
+      PR tsb benar, silakan mulai percakapan dan jelaskan dengan maintainer di dalam
+      PR Anda.
+  utter_spamPR:
+  - text: Kami tidak suka melihat PR spam seperti halnya Anda, jadi beri mereka label
+      yang tidak valid dan tutup. PR dengan label yang tidak valid tidak akan dihitung
+      ke arah Hacktoberfest.
+  utter_explainHacktoberfest:
+  - text: Hacktoberfest adalah perayaan sebulan penuh dari perangkat lunak open source
+      yang dijalankan oleh DigitalOcean dan DEV. Hacktoberfest terbuka untuk semua
+      orang di komunitas global kami. Untuk berpartisipasi, empat PR harus disubmit
+      ke repositori GitHub publik. Anda dapat mendaftar kapan saja antara 1 Oktober
+      dan 31 Oktober.
+  utter_joinHacktoberfest:
+  - text: Pertama, daftar di hacktoberfest.digitalocean.com. Kemudian, kirimkan setidaknya
+      empat PR ke repositori GitHub publik mana pun. Anda dapat mencari open-issues
+      berlabel Hacktoberfest untuk inspirasi. Usahakan kontribusi yang kualitas! Apakah
+      Anda memelihara repo? Buat issue atau beri label yang sudah ada dengan Hacktoberfest
+      di proyek GitHub Anda untuk membantu kontributor baru tahu apa yang harus dikerjakan.
+      Beri tag pada spam atau PR yang tidak relevan dengan label yang tidak valid
+      untuk mendiskualifikasi mereka.
+  utter_getSticker:
+  - text: Stiker disertakan dengan T-shirt Anda setelah menyelesaikan empat PR.
+  utter_ifItIsNotFinish:
+  - text: sayangnya, Anda harus men-submit setidaknya empat PR untuk mendapatkan T-shirt.
+  utter_whyMyPRStatusIsStillInReviewPeriod:
+  - text: Dalam upaya untuk mengurangi spam dan membantu pengelola, kami telah memperkenalkan
+      periode peninjauan satu minggu untuk semua PR. Setelah Anda mengirimkan empat
+      PR yang memenuhi syarat (siap untuk ditinjau, bukan konsep), jendela peninjauan
+      tujuh hari dimulai. Periode ini memberikan waktu bagi pengelola untuk mengidentifikasi
+      dan memberi label pada PR mana pun yang spam sebagai tidak valid. Jika PR Anda
+      tidak ditandai tidak valid selama jendela itu, mereka akan memungkinkan Anda
+      untuk menyelesaikan tantangan Hacktoberfest. Jika selama periode ini, salah
+      satu PR Anda dilabeli sebagai tidak valid, Anda akan kembali ke status tertunda
+      hingga Anda memiliki empat PR yang memenuhi syarat, pada saat mana periode peninjauan
+      akan dimulai lagi.
+  utter_whyMyPRLabeledAsInvalid:
+  - text: Jika pengelola repositori memutuskan PR yang Anda buat adalah spam atau kontribusi tidak membantu proyek, mereka dapat menambahkan label yang tidak valid ke PR Anda.
+      Ini memberi tahu kami bahwa mereka tidak menganggap PR Anda adalah kontribusi yang berkualitas, jadi itu tidak akan diperhitungkan dalam Hacktoberfest.
+  utter_howToMakePeopleContributeToMyRepo:
+  - text: Buat issue untuk apa pun yang Anda ingin kontributor untuk membantu, pastikan
+      untuk memberi mereka label Hacktoberfest sehingga mereka lebih mudah ditemukan.
+      Anda juga dapat berbagi issue atau repositori di Twitter, menggunakan
+  utter_whenIGetTheSwag:
+  - text: Kaos akan diberikan kepada 50.000 peserta pertama yang berhasil menyelesaikan tantangan Hacktoberfest.
+      Kami akan mulai mengirim email dengan detail lebih lanjut tentang cara pengiriman kaos sepanjang bulan.
+  utter_myPRMarkedAsNotInRepo:
+  - text: Sayangnya, PR Anda yang dibuat di repositori tidak memenuhi kriteria Hacktoberfest. Kami telah memutuskan bahwa PR yang dibuat ke repositori ini tidak akan dihitung untuk menyelesaikan tantangan.
+  utter_myPRIsNotCounted:
+  - text: "Untuk Hacktoberfest, PR pada GitHub tidak akan dihitung sampai mereka ditandai sebagai 'ready for review': yang ditandai sebagai konsep/draft tidak akan dihitung. Harap pastikan untuk menandai ulang setiap draft PR sebagai 'ready for review' sehingga maintainers dapat merge PR Anda."
 actions:
-- utter_greet
-- utter_cheer_up
-- utter_did_that_help
-- utter_happy
-- utter_goodbye
+- utter_invalidLabel
+- utter_spamPR
+- utter_explainHacktoberfest
+- utter_joinHacktoberfest
+- utter_getSticker
+- utter_ifItIsNotFinish
+- utter_whyMyPRStatusIsStillInReviewPeriod
+- utter_whyMyPRLabeledAsInvalid
+- utter_howToMakePeopleContributeToMyRepo
+- utter_whenIGetTheSwag
+- utter_myPRMarkedAsNotInRepo
+- utter_myPRIsNotCounted

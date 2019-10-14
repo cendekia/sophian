@@ -1,0 +1,3609 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [
+          {
+            "end": 12,
+            "entity": "hacktober",
+            "start": 0,
+            "value": "haktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "haktoberfest?"
+      },
+      {
+        "entities": [
+          {
+            "end": 23,
+            "entity": "hacktober",
+            "start": 11,
+            "value": "haktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "apaan arti haktoberfest"
+      },
+      {
+        "entities": [
+          {
+            "end": 13,
+            "entity": "hacktober",
+            "start": 0,
+            "value": "hacktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "hacktoberfest"
+      },
+      {
+        "entities": [
+          {
+            "end": 19,
+            "entity": "hacktober",
+            "start": 11,
+            "value": "haktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "apaan arti haktober?"
+      },
+      {
+        "entities": [
+          {
+            "end": 17,
+            "entity": "hacktober",
+            "start": 9,
+            "value": "haktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apa arti haktober"
+      },
+      {
+        "entities": [
+          {
+            "end": 13,
+            "entity": "hacktober",
+            "start": 0,
+            "value": "hacktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "hacktoberfest?"
+      },
+      {
+        "entities": [
+          {
+            "end": 8,
+            "entity": "hacktober",
+            "start": 0,
+            "value": "haktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "haktober"
+      },
+      {
+        "entities": [
+          {
+            "end": 19,
+            "entity": "hacktober",
+            "start": 6,
+            "value": "hacktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "apaan hacktoberfest?"
+      },
+      {
+        "entities": [
+          {
+            "end": 27,
+            "entity": "hacktober",
+            "start": 14,
+            "value": "hacktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "apaan artinya hacktoberfest?"
+      },
+      {
+        "entities": [
+          {
+            "end": 14,
+            "entity": "hacktober",
+            "start": 6,
+            "value": "haktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apaan haktober"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "hacktober",
+            "start": 7,
+            "value": "haktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apakah haktober"
+      },
+      {
+        "entities": [
+          {
+            "end": 18,
+            "entity": "hacktober",
+            "start": 6,
+            "value": "haktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apaan haktoberfest"
+      },
+      {
+        "entities": [
+          {
+            "end": 23,
+            "entity": "hacktober",
+            "start": 11,
+            "value": "haktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "apaan arti haktoberfest?"
+      },
+      {
+        "entities": [
+          {
+            "end": 25,
+            "entity": "hacktober",
+            "start": 12,
+            "value": "hacktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "apa artinya hacktoberfest"
+      },
+      {
+        "entities": [
+          {
+            "end": 14,
+            "entity": "hacktober",
+            "start": 6,
+            "value": "haktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apaan haktober?"
+      },
+      {
+        "entities": [
+          {
+            "end": 27,
+            "entity": "hacktober",
+            "start": 15,
+            "value": "haktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "apakah artinya haktoberfest?"
+      },
+      {
+        "entities": [
+          {
+            "end": 19,
+            "entity": "hacktober",
+            "start": 6,
+            "value": "hacktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "apaan hacktoberfest"
+      },
+      {
+        "entities": [
+          {
+            "end": 20,
+            "entity": "hacktober",
+            "start": 12,
+            "value": "haktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apa artinya haktober"
+      },
+      {
+        "entities": [
+          {
+            "end": 19,
+            "entity": "hacktober",
+            "start": 7,
+            "value": "haktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "apakah haktoberfest?"
+      },
+      {
+        "entities": [
+          {
+            "end": 24,
+            "entity": "hacktober",
+            "start": 12,
+            "value": "haktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apa artinya haktoberfest"
+      },
+      {
+        "entities": [
+          {
+            "end": 9,
+            "entity": "hacktober",
+            "start": 0,
+            "value": "hacktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "hacktober"
+      },
+      {
+        "entities": [
+          {
+            "end": 16,
+            "entity": "hacktober",
+            "start": 7,
+            "value": "hacktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apakah hacktober"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "hacktober",
+            "start": 6,
+            "value": "hacktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "apaan hacktober"
+      },
+      {
+        "entities": [
+          {
+            "end": 8,
+            "entity": "hacktober",
+            "start": 0,
+            "value": "haktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "haktober?"
+      },
+      {
+        "entities": [
+          {
+            "end": 20,
+            "entity": "hacktober",
+            "start": 7,
+            "value": "hacktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "apakah hacktoberfest?"
+      },
+      {
+        "entities": [
+          {
+            "end": 27,
+            "entity": "hacktober",
+            "start": 14,
+            "value": "hacktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apaan artinya hacktoberfest?"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "hacktober",
+            "start": 7,
+            "value": "haktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apakah haktober?"
+      },
+      {
+        "entities": [
+          {
+            "end": 27,
+            "entity": "hacktober",
+            "start": 15,
+            "value": "haktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apakah artinya haktoberfest"
+      },
+      {
+        "entities": [
+          {
+            "end": 9,
+            "entity": "hacktober",
+            "start": 0,
+            "value": "hacktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "hacktober?"
+      },
+      {
+        "entities": [
+          {
+            "end": 12,
+            "entity": "hacktober",
+            "start": 0,
+            "value": "haktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "haktoberfest"
+      },
+      {
+        "entities": [
+          {
+            "end": 12,
+            "entity": "hacktober",
+            "start": 4,
+            "value": "haktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apa haktober?"
+      },
+      {
+        "entities": [
+          {
+            "end": 22,
+            "entity": "hacktober",
+            "start": 14,
+            "value": "haktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "apaan artinya haktober"
+      },
+      {
+        "entities": [
+          {
+            "end": 18,
+            "entity": "hacktober",
+            "start": 6,
+            "value": "haktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "apaan haktoberfest"
+      },
+      {
+        "entities": [
+          {
+            "end": 19,
+            "entity": "hacktober",
+            "start": 11,
+            "value": "haktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apaan arti haktober"
+      },
+      {
+        "entities": [
+          {
+            "end": 12,
+            "entity": "hacktober",
+            "start": 4,
+            "value": "haktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apa haktober"
+      },
+      {
+        "entities": [
+          {
+            "end": 16,
+            "entity": "hacktober",
+            "start": 4,
+            "value": "haktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "apa haktoberfest?"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "hacktober",
+            "start": 7,
+            "value": "haktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "apakah haktober?"
+      },
+      {
+        "entities": [
+          {
+            "end": 13,
+            "entity": "hacktober",
+            "start": 4,
+            "value": "hacktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apa hacktober?"
+      },
+      {
+        "entities": [
+          {
+            "end": 16,
+            "entity": "hacktober",
+            "start": 7,
+            "value": "hacktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apakah hacktober?"
+      },
+      {
+        "entities": [
+          {
+            "end": 18,
+            "entity": "hacktober",
+            "start": 6,
+            "value": "haktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "apaan haktoberfest?"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "hacktober",
+            "start": 6,
+            "value": "hacktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apaan hacktober"
+      },
+      {
+        "entities": [
+          {
+            "end": 20,
+            "entity": "hacktober",
+            "start": 7,
+            "value": "hacktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apakah hacktoberfest?"
+      },
+      {
+        "entities": [
+          {
+            "end": 18,
+            "entity": "hacktober",
+            "start": 9,
+            "value": "hacktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apa arti hacktober?"
+      },
+      {
+        "entities": [
+          {
+            "end": 24,
+            "entity": "hacktober",
+            "start": 11,
+            "value": "hacktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apaan arti hacktoberfest"
+      },
+      {
+        "entities": [
+          {
+            "end": 16,
+            "entity": "hacktober",
+            "start": 7,
+            "value": "hacktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "apakah hacktober?"
+      },
+      {
+        "entities": [
+          {
+            "end": 19,
+            "entity": "hacktober",
+            "start": 7,
+            "value": "haktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apakah haktoberfest"
+      },
+      {
+        "entities": [
+          {
+            "end": 19,
+            "entity": "hacktober",
+            "start": 6,
+            "value": "hacktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apaan hacktoberfest"
+      },
+      {
+        "entities": [
+          {
+            "end": 13,
+            "entity": "hacktober",
+            "start": 4,
+            "value": "hacktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "Apa hacktober"
+      },
+      {
+        "entities": [
+          {
+            "end": 24,
+            "entity": "hacktober",
+            "start": 12,
+            "value": "haktoberfest"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "apa artinya haktoberfest"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "hacktober",
+            "start": 7,
+            "value": "haktober"
+          }
+        ],
+        "intent": "ask_hacktoberfestMean",
+        "text": "apakah haktober"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "gimana caranya untuk join acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Bagaimana caranya ikutnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Gimana cara ikutannya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Gmana caranya join"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "gmana caranya ikutan"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Gimana cara untuk ikut acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Bagaimana cara ikutnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Bagaimana cara ikut"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "bagaimana cara untuk ikutnya acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "gmana cara untuk ikutan acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Gimana cara join"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "gmana cara ikutnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "gimana caranya ikutnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "gmana cara ikutannya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "gimana cara untuk ikut acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Bagaimana cara ikutannya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "bagaimana caranya untuk ikut acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "gimana cara untuk ikutnya acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "gimana cara untuk ikutan acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Gimana cara ikutan"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Gmana caranya untuk ikutannya acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Bagaimana cara ikutan"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Bagaimana caranya untuk ikutnya acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Bagaimana cara untuk join acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Bagaimana caranya untuk ikutannya acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Gmana cara ikutannya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Gimana cara ikutnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "gmana cara untuk ikutnya acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "gimana cara untuk ikutannya acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "gimana cara ikutan"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "bagaimana caranya ikutannya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "bagaimana cara ikutannya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Gimana caranya ikutnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "bagaimana cara untuk ikutannya acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Gmana caranya ikutnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "gmana cara untuk join acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Gmana cara ikutnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Gmana cara untuk join acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "gmana cara untuk ikutannya acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Gmana cara untuk ikutnya acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "bagaimana caranya join"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Gimana cara untuk ikutannya acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "gimana caranya untuk ikutnya acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Bagaimana caranya untuk ikut acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "gmana caranya ikutannya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "bagaimana caranya untuk ikutnya acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "gimana caranya untuk ikutannya acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "gmana cara ikutan"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Gimana cara untuk ikutan acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howJoinHacktoberfest",
+        "text": "Gmana caranya untuk ikut acara ini?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "gimana caranya melihat progres?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Gimana cara melihat progres aku?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Gmana caranya melihat progres aku?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Bagaimana cara melihat progres saya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "gmana caranya melihat progres?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Gimana cara melihat progres aku"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "gimana cara melihat progres"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "gmana cara melihat progres gue"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "bagaimana cara melihat progres"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "bagaimana cara melihat progres saya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "gimana caranya melihat progres saya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Gmana cara melihat progres"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Bagaimana caranya melihat progres gw?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Bagaimana caranya melihat progres gue"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "gmana cara melihat progres saya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Gimana caranya melihat progres?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "gmana cara melihat progres gw?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Bagaimana caranya melihat progres gw"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Gimana cara melihat progres?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Bagaimana cara melihat progres"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "gmana caranya melihat progres gue"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Gimana cara melihat progres gw"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Bagaimana cara melihat progres aku"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Gmana cara melihat progres gue?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Gmana cara melihat progres saya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Bagaimana cara melihat progres saya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Gmana cara melihat progres?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Bagaimana cara melihat progres gue"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "bagaimana caranya melihat progres"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Gimana caranya melihat progres aku?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Gimana caranya melihat progres"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "gimana caranya melihat progres gue?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Gmana caranya melihat progres saya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "bagaimana caranya melihat progres gw?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "gimana caranya melihat progres aku?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "gimana cara melihat progres gw"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Bagaimana caranya melihat progres?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Gimana cara melihat progres"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Gmana caranya melihat progres"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "gmana caranya melihat progres"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "gmana caranya melihat progres aku"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Gimana caranya melihat progres saya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "gimana caranya melihat progres"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Bagaimana cara melihat progres?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Gimana cara melihat progres saya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "Gmana caranya melihat progres?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "gimana cara melihat progres aku"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "gimana cara melihat progres gw?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "bagaimana cara melihat progres saya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToSeeMyHacktoberfestProgress",
+        "text": "bagaimana caranya melihat progres gue?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Saya dah menyelesaikan misinya, kapan gw dapat stikernya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "saya dah beresin pr, kapankah saya dapat kaosnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "gw sudah kelar misi, kapankah aku dapat stikernya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "saya sudah slesein misi, kapankah gue bisa dapat stikernya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "gw dah selesai misi, kapankah saya dapat swagnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "aku dah selesain 4 pr, kapankah gue dapat stikernya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "saya dah slesei 4 pull request, kapankah gw dapat kaos dan stikernya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "aku dah kelarin 4 pr, kapan gue dapat swagnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "aku sudah kelar misinya, kapan gw dapat stikernya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Gue dah beres 4 pull request, kapan aku dapat stikernya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "saya dah selesai misinya, kapan gw bisa dapat hadiah?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Saya dah kelarin misinya, kapan aku dapat kaos dan stikernya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "saya dah selesain misi, kapan gue bisa dapat hadiahnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Saya sudah beresin pull request, kapankah gw dapat hadiahnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Aku dah beres misi, kapankah gue bisa dapat kaosnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Gue dah beres misi, kapan gue bisa dapat kaosnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "aku sudah beresin misinya, kapankah gue dapat swagnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "aku dah kelarin misinya, kapankah gue dapat stikernya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "saya dah selesai pull request, kapan gw bisa dapat kaos dan stikernya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Gue dah beresin 4 pr, kapankah gue dapat kaos dan stikernya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Gue dah slesei 4 pull request, kapan gue bisa dapat swagnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Aku sudah kelar 4 pr, kapan aku dapat swagnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "gw dah beresin 4 pull request, kapankah saya bisa dapat stikernya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Gue dah kelarin misinya, kapan gue dapat swagnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Aku sudah kelarin pull request, kapan aku bisa dapat kaosnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Gw dah slesei 4 pull request, kapankah saya bisa dapat kaos dan stikernya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Saya sudah slesein misi, kapankah aku bisa dapat stikernya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Gw sudah kelar pull request, kapan gw dapat kaos dan stikernya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Saya sudah beres misi, kapankah aku dapat swagnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "aku sudah beres misinya, kapankah aku dapat swagnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "gw dah beres misinya, kapankah saya dapat swagnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "saya dah beres 4 pull request, kapan gw dapat kaosnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Gue dah kelarin misi, kapan aku dapat swagnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "gw dah kelarin 4 pr, kapan aku dapat kaos dan stikernya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "gue sudah kelarin misi, kapankah saya bisa dapat swagnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "gue sudah menyelesaikan misinya, kapankah gue dapat kaosnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "gw sudah slesei misi, kapan saya dapat kaosnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "aku dah beres misi, kapan aku bisa dapat kaosnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "aku sudah kelar misinya, kapan gue bisa dapat swagnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "gw dah kelarin 4 pull request, kapankah gue bisa dapat swagnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "aku dah beres misi, kapan gue bisa dapat swagnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "gw sudah menyelesaikan 4 pr, kapan gw bisa dapat swagnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Aku dah selesai misinya, kapankah saya dapat swagnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Gw sudah beres misinya, kapankah gue bisa dapat swagnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Aku sudah kelarin pull request, kapankah gue bisa dapat swagnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "gue dah beresin pr, kapankah saya bisa dapat kaosnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Gw dah slesei misi, kapankah gue bisa dapat hadiahnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "saya sudah kelar misi, kapan gw bisa dapat hadiah"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "Gue dah beresin misinya, kapan aku dapat kaosnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whenIGetTheSwag",
+        "text": "gw sudah beres misinya, kapan gw bisa dapat kaos dan stikernya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "bagaimana cara aku bisa dapat stikernya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Gimana caranya dapat kaos dan stikernya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "gimana caranya dapat hadiah"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Bagaimana cara bisa dapat swagnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "gmana cara saya bisa dapat swagnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "gmana cara aku dapat swagnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Gimana caranya aku dapat swagnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Gmana cara saya dapat swagnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "gmana caranya saya dapat swagnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "gmana caranya dapat kaos dan stikernya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Gmana cara saya bisa dapat hadiah?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "gimana cara gue bisa dapat swagnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "bagaimana caranya dapat stikernya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Gmana cara gw dapat hadiah"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "bagaimana caranya bisa dapat kaos dan stikernya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "gimana cara gue bisa dapat stikernya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Gimana cara bisa dapat kaos dan stikernya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Bagaimana cara bisa dapat kaosnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "gmana caranya gue dapat stikernya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "gmana cara dapat stikernya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "bagaimana cara saya dapat swagnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "gimana cara gue bisa dapat kaos dan stikernya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "gmana caranya dapat swagnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "gimana caranya bisa dapat kaosnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Bagaimana cara aku bisa dapat hadiah"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Bagaimana cara dapat stikernya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "gmana cara gw dapat swagnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Gimana caranya bisa dapat hadiahnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "gmana cara aku bisa dapat kaos dan stikernya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Bagaimana cara bisa dapat kaos dan stikernya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "gmana caranya bisa dapat kaos dan stikernya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "bagaimana cara gw dapat stikernya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "gmana caranya dapat stikernya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Gmana cara bisa dapat swagnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "gmana cara gw bisa dapat swagnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "gimana caranya bisa dapat hadiahnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "bagaimana cara dapat hadiah"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Bagaimana caranya bisa dapat hadiahnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Gmana caranya dapat swagnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Bagaimana caranya bisa dapat stikernya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Gimana caranya bisa dapat hadiahnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Gimana cara gue dapat swagnya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "bagaimana cara gw dapat kaos dan stikernya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "bagaimana cara saya bisa dapat swagnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Gmana cara bisa dapat stikernya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Bagaimana cara gw dapat swagnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "bagaimana cara aku dapat kaos dan stikernya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "gmana caranya gue bisa dapat kaos dan stikernya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "gmana caranya gue bisa dapat kaos dan stikernya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howDoIGetTheSticker",
+        "text": "Gmana caranya dapat kaosnya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "jika gue gak sampai selesaikan 4 pull request, tetap bisa dapat kaos dan stikernya tdk?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "kalo saya enggak sampai selesai misinya dapat swagnya gk"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "apabila gak sampai kelarin misinya, tetep bisa dapat swagnya tdk?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "apabila gue tidak sampe slesein 4 pull request dapat swagnya tidak"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "jikalau aku nggak sampai beresin misi bisa dapat hadiahnya nggak"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Jikalau enggak sampai beres 4 pull request bisa dapat swagnya gk"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "jikalau gue gk sampai beresin 4 pull request, tetep bisa dapat hadiahnya enggak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Apabila saya gak sampe kelarin 4 pr dapat stikernya tidak"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Jikalau saya tidak sampe selesai misi, tetap bisa dapat kaos dan stikernya nggak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "jikalau gk sampe selesai pull request bisa dapat swagnya gak"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "jikalau gak sampai beres misi bisa dapat hadiah tdk"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "jika gw nggak sampai beresin misi, tetap dapat kaos dan stikernya nggak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Apabila saya nggak sampe selesain misi, tetap dapat stikernya nggak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "jikalau tidak sampe kelarin 4 pull request, tetap dapat swagnya nggak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "apabila saya nggak sampe selesaikan 4 pr, tetep bisa dapat stikernya enggak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "apabila nggak sampai beres 4 pr, tetep dapat kaos dan stikernya gk?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Jikalau aku enggak sampai beresin misinya dapat kaos dan stikernya nggak"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Kalo gak sampe beres misi dapat swagnya gk"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Apabila aku tdk sampe beresin misi, tetap dapat hadiahnya gak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "apabila aku tidak sampai beresin pull request, tetep dapat hadiahnya tidak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Jikalau saya tidak sampe kelar pr, tetap dapat stikernya gak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Apabila tidak sampe beres 4 pull request, tetap dapat kaos dan stikernya gk?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Apabila saya gk sampai beresin misinya, tetap dapat stikernya tdk?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Apabila gue enggak sampe kelarin misi, tetep dapat hadiah tdk?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Apabila saya nggak sampai kelarin pr dapat hadiah gak"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Apabila aku tdk sampe beres misinya, tetep bisa dapat swagnya nggak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Kalau enggak sampai kelar pull request, tetap dapat hadiahnya tidak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Apabila gak sampe slesein pr, tetap dapat hadiahnya gk?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "jika tdk sampe kelar pull request, tetap bisa dapat kaos dan stikernya tdk?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "apabila enggak sampai beres misinya, tetap bisa dapat hadiahnya tdk?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "jika nggak sampai menyelesaikan misinya bisa dapat stikernya gk"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Jikalau tdk sampe selesaikan 4 pull request, tetap bisa dapat swagnya tdk?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "apabila tidak sampai kelar pr bisa dapat stikernya tidak"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "jika tdk sampe selesai misinya, tetap dapat hadiahnya nggak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Apabila nggak sampai selesai 4 pr dapat stikernya tdk"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Jika gw gak sampe menyelesaikan pr bisa dapat stikernya gk"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "apabila tidak sampai slesein misi dapat kaosnya gk"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Apabila gue nggak sampai kelar pull request bisa dapat swagnya enggak"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Kalau gw gk sampe slesein misinya dapat swagnya tdk"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Apabila gw tdk sampe kelar 4 pull request bisa dapat stikernya tidak"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Kalo gk sampe slesein misinya, tetep dapat swagnya tidak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Jikalau gue enggak sampe kelar pull request, tetep dapat kaos dan stikernya tidak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "kalau tdk sampe menyelesaikan 4 pull request dapat kaosnya enggak"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "jika gw gak sampai beresin misinya dapat kaos dan stikernya tidak"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "apabila tdk sampe beresin misi, tetep dapat hadiahnya tidak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "kalau saya gk sampai slesein misi, tetep dapat swagnya enggak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "kalau saya nggak sampai selesain 4 pr dapat kaos dan stikernya gk"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "kalau enggak sampe beres pr, tetap dapat stikernya enggak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "apabila gue nggak sampai kelar pull request, tetap dapat swagnya nggak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_ifItIsNotFinish",
+        "text": "Apabila gw gk sampai selesai misinya, tetap dapat kaos dan stikernya nggak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "kalau aku yg punya repo, gimana cara menghadapi PR yg asal-asalan?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "jikalau saya yang punya repo, gmana cara menghadapi PR yg ngasal?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "jika gw yang punya repo bagaimana caranya menghadapi PR asal-asalan"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Jika gw yang punya repo, gimana cara menghadapi PR yang ngasal?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "kalo gw yang punya repo, gimana cara menghadapi PR yg spam?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "kalau gue yg punya repo bagaimana cara menghadapi PR asal2an"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "jikalau saya yg punya repo, gmana caranya menghadapi PR yang asal2an?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "kalo gue yang punya repo, bagaimana caranya menghadapi PR yang ngasal?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "jika gw yang punya repo, gimana caranya menghadapi PR yg asal2an?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Jika aku yg punya repo, gmana caranya menghadapi PR yg spam?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "apabila aku yang punya repo, gimana caranya menghadapi PR yang asal-asalan?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Apabila aku yg punya repo, gmana cara menghadapi PR yang ngasal?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Apabila saya yang punya repo bagaimana cara menghadapi PR asal2an"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "kalo saya yg punya repo, gmana caranya menghadapi PR yang spam?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Apabila gue yg punya repo, bagaimana cara menghadapi PR yang ngasal?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "jikalau saya yg punya repo gmana caranya menghadapi PR ngasal"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "apabila saya yg punya repo bagaimana caranya menghadapi PR asal-asalan"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Jikalau saya yg punya repo, bagaimana caranya menghadapi PR yang asal2an?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Kalau saya yg punya repo gimana cara menghadapi PR spam"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Apabila gw yg punya repo, gmana cara menghadapi PR yang asal-asalan?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Apabila aku yang punya repo gimana caranya menghadapi PR spam"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Kalo saya yg punya repo gmana cara menghadapi PR asal2an"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Kalo gue yang punya repo bagaimana caranya menghadapi PR ngasal"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "kalau saya yang punya repo gmana cara menghadapi PR asal-asalan"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Apabila aku yang punya repo gimana cara menghadapi PR asal-asalan"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "apabila aku yang punya repo gmana caranya menghadapi PR spam"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Apabila saya yang punya repo bagaimana cara menghadapi PR asal-asalan"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Jikalau gue yang punya repo bagaimana caranya menghadapi PR asal-asalan"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "kalau aku yg punya repo, bagaimana caranya menghadapi PR yang ngasal?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "apabila gue yang punya repo, gimana cara menghadapi PR yang spam?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Apabila gw yg punya repo, gimana caranya menghadapi PR yang ngasal?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Kalau saya yg punya repo, gimana caranya menghadapi PR yang asal-asalan?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Apabila aku yang punya repo, gmana caranya menghadapi PR yg asal2an?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "jikalau saya yang punya repo, gimana cara menghadapi PR yg asal-asalan?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Kalo gue yang punya repo gmana cara menghadapi PR spam"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "kalo gue yg punya repo gmana caranya menghadapi PR spam"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Jikalau aku yg punya repo, gmana cara menghadapi PR yg asal2an?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Kalau saya yang punya repo gmana cara menghadapi PR ngasal"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Kalo aku yg punya repo bagaimana caranya menghadapi PR spam"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Jika gue yang punya repo, gimana cara menghadapi PR yang spam?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "kalo gue yang punya repo, gimana cara menghadapi PR yg asal2an?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Kalo aku yg punya repo, gmana cara menghadapi PR yg ngasal?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Jika aku yang punya repo bagaimana caranya menghadapi PR asal2an"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "jikalau aku yg punya repo bagaimana caranya menghadapi PR asal2an"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Kalo aku yang punya repo bagaimana caranya menghadapi PR asal2an"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Jikalau gue yang punya repo gimana caranya menghadapi PR asal-asalan"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "apabila gue yang punya repo gimana caranya menghadapi PR ngasal"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "jikalau aku yg punya repo gimana cara menghadapi PR ngasal"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Apabila gue yg punya repo gmana caranya menghadapi PR spam"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IGotRepoHowToHandleSpamPR",
+        "text": "Kalau gue yang punya repo gimana cara menghadapi PR asal-asalan"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Caranya biar orang kontribusi direpo gue gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Caranya biar orang kontribusi direpo gue gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Caranya orang kontribusi direpo aku gimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Cara orang kontribusi direpo saya gimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "cara orang kontribusi direpo saya gmana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Caranya biar orang kontribusi direpo gw bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "cara orang kontribusi direpo aku gmana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Cara orang kontribusi direpo gue gimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "cara biar orang kontribusi direpo aku bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "cara biar orang kontribusi direpo saya gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "cara biar orang kontribusi direpo gw bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Cara orang kontribusi direpo aku bagaimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Cara orang kontribusi direpo saya bagaimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "caranya orang kontribusi direpo aku gmana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Caranya biar orang kontribusi direpo gw gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Caranya orang kontribusi direpo gue bagaimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "cara biar orang kontribusi direpo gue gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Cara biar orang kontribusi direpo saya gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "cara orang kontribusi direpo gw bagaimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Cara biar orang kontribusi direpo aku gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Cara orang kontribusi direpo aku gmana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Cara biar orang kontribusi direpo saya bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "caranya biar orang kontribusi direpo gue gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "cara orang kontribusi direpo gue gmana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Caranya orang kontribusi direpo saya bagaimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "cara biar orang kontribusi direpo saya bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Cara biar orang kontribusi direpo gw gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Caranya biar orang kontribusi direpo saya gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "cara biar orang kontribusi direpo aku gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Cara biar orang kontribusi direpo saya gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Caranya biar orang kontribusi direpo gw gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Caranya orang kontribusi direpo gue gmana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "caranya orang kontribusi direpo aku bagaimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "caranya biar orang kontribusi direpo saya bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "caranya biar orang kontribusi direpo gw gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Cara biar orang kontribusi direpo gw bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Caranya biar orang kontribusi direpo aku bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "caranya biar orang kontribusi direpo gw gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "cara orang kontribusi direpo gw gimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "caranya orang kontribusi direpo aku gimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Caranya orang kontribusi direpo aku gmana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Caranya orang kontribusi direpo gw gmana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "caranya biar orang kontribusi direpo gue gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "caranya biar orang kontribusi direpo gw bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "caranya orang kontribusi direpo gw gimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Caranya orang kontribusi direpo gw bagaimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "caranya biar orang kontribusi direpo aku gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Caranya biar orang kontribusi direpo aku gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "Caranya orang kontribusi direpo aku bagaimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howToMakePeopleContributeToMyRepo",
+        "text": "cara biar orang kontribusi direpo gw gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil 4 pr gw sepertinya nggak dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil misi aku sepertinya tidak dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil pull request gw sepertinya gak dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil pr gue kayaknya tdk dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil 4 pull request saya kayaknya tdk dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil misinya gw sepertinya tdk dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil pr aku kayaknya gk dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil 4 pull request gue kayaknya nggak dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil misi aku sepertinya gak dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil 4 pr aku kayaknya nggak dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil misinya aku sepertinya tdk dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil misi saya sepertinya tdk dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil pr aku sepertinya tidak dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil misinya saya kayaknya tidak dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil misi aku kayaknya tidak dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil pull request aku sepertinya tdk dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil 4 pr aku sepertinya nggak dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil pr gue sepertinya nggak dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil misinya saya kayaknya nggak dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil pr gue kayaknya gk dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil 4 pull request saya kayaknya tdk dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil 4 pr aku sepertinya nggak dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil pull request gw kayaknya tdk dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil pull request gue kayaknya tidak dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil 4 pull request gue sepertinya tidak dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil misinya gue kayaknya tidak dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil misi saya sepertinya nggak dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil misi gw kayaknya gk dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil misi gue sepertinya tdk dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil 4 pr gue sepertinya gk dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil pr aku kayaknya nggak dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil pull request aku kayaknya tidak dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil misinya aku kayaknya enggak dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil misinya aku kayaknya tdk dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil misinya gw sepertinya enggak dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil misinya gw sepertinya tidak dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil 4 pull request gue sepertinya enggak dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil misi saya sepertinya gk dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil pr aku sepertinya gk dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil misi gw kayaknya tidak dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil pull request gue sepertinya tidak dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil pr gue kayaknya gak dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil misi saya sepertinya enggak dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil pr saya kayaknya nggak dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil misinya saya kayaknya nggak dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil misinya saya kayaknya enggak dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil misi aku sepertinya enggak dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil misinya saya kayaknya enggak dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "hasil misi saya sepertinya tidak dihitung, knapa ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRIsNotCounted",
+        "text": "Hasil misinya saya sepertinya gk dihitung, knapa ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa pr saya dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa 4 pr gue dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa 4 pull request saya dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa pull request aku dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa misi saya dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa 4 pull request gw dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa pull request saya dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa 4 pr aku dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa misinya aku dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa 4 pull request aku dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa 4 pr gue dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa pr gw dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa misi aku dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa misi gw dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa misi saya dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa misi gw dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa pr saya dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa 4 pull request aku dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa pr gue dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa pr aku dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa 4 pr aku dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa misinya gw dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa pull request gue dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa misinya saya dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa misi saya dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa misinya aku dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa pull request aku dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa misinya saya dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa misinya gue dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa 4 pr gue dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa 4 pr gw dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa pull request aku dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa pr aku dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa 4 pull request saya dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa misi aku dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa 4 pull request gue dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa 4 pr saya dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa misi aku dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa pr gw dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa pull request gue dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa 4 pr gw dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa 4 pull request gue dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa pr gue dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa misinya gw dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa 4 pull request aku dikasih label invalid"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa misi gw dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa pull request saya dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa 4 pull request aku dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "Knapa 4 pr gw dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRLabeledAsInvalid",
+        "text": "knapa 4 pr gw dikasih label invalid?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Kalau pull request aku dikasih label invalid padahal tidak ada yang salah, gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "jikalau misinya gue dikasih label invalid padahal nggak ada yang salah bagaimana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Apabila pull request gw dikasih label invalid padahal tidak ada yang salah, bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "kalo misinya saya dikasih label invalid padahal tidak ada yang salah gimana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "kalo misi saya dikasih label invalid padahal gk ada yang salah gmana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "jikalau misi aku dikasih label invalid padahal tidak ada yang salah gimana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "jika pr aku dikasih label invalid padahal gk ada yang salah bagaimana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "apabila misi gue dikasih label invalid padahal nggak ada yang salah, gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Kalau 4 pr saya dikasih label invalid padahal gak ada yang salah bagaimana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "jikalau misinya aku dikasih label invalid padahal nggak ada yang salah, gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Kalau pull request gw dikasih label invalid padahal tdk ada yang salah bagaimana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Jika pull request gue dikasih label invalid padahal tdk ada yang salah gimana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Kalo misinya gw dikasih label invalid padahal tidak ada yang salah gmana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Kalo 4 pr gw dikasih label invalid padahal tidak ada yang salah, gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "jikalau misinya saya dikasih label invalid padahal nggak ada yang salah bagaimana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Apabila misinya gw dikasih label invalid padahal tdk ada yang salah gmana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Apabila misi saya dikasih label invalid padahal tdk ada yang salah bagaimana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "jikalau 4 pr aku dikasih label invalid padahal gk ada yang salah, gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Apabila misinya aku dikasih label invalid padahal enggak ada yang salah, gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Apabila misi aku dikasih label invalid padahal enggak ada yang salah, bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "apabila 4 pull request saya dikasih label invalid padahal tidak ada yang salah, gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Kalau pull request aku dikasih label invalid padahal tidak ada yang salah gmana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Kalo pull request aku dikasih label invalid padahal gk ada yang salah gimana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Jikalau 4 pull request gue dikasih label invalid padahal nggak ada yang salah, bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Apabila misinya aku dikasih label invalid padahal gk ada yang salah, gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "jikalau pull request gue dikasih label invalid padahal gak ada yang salah gmana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "kalau pr gue dikasih label invalid padahal nggak ada yang salah bagaimana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Apabila 4 pull request aku dikasih label invalid padahal nggak ada yang salah bagaimana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Kalau pull request gw dikasih label invalid padahal enggak ada yang salah bagaimana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Kalo misinya gw dikasih label invalid padahal nggak ada yang salah, gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Jika misinya aku dikasih label invalid padahal tidak ada yang salah gmana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "apabila pull request aku dikasih label invalid padahal gk ada yang salah, bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "jika 4 pr saya dikasih label invalid padahal gk ada yang salah, gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "kalau misinya gw dikasih label invalid padahal gk ada yang salah gimana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Jika pr gue dikasih label invalid padahal gak ada yang salah bagaimana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "jikalau 4 pull request saya dikasih label invalid padahal gk ada yang salah, gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "jikalau misinya gw dikasih label invalid padahal gak ada yang salah gimana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Kalau misinya aku dikasih label invalid padahal nggak ada yang salah bagaimana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Kalau pull request saya dikasih label invalid padahal enggak ada yang salah gmana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "kalo pull request aku dikasih label invalid padahal gk ada yang salah, gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "kalo pr gue dikasih label invalid padahal tidak ada yang salah, gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "apabila misinya aku dikasih label invalid padahal nggak ada yang salah, gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Jika misinya gue dikasih label invalid padahal tidak ada yang salah, bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Kalau misinya aku dikasih label invalid padahal tdk ada yang salah gmana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Kalau misinya aku dikasih label invalid padahal enggak ada yang salah, gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Apabila misinya gue dikasih label invalid padahal gk ada yang salah, gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "jikalau pr gue dikasih label invalid padahal gak ada yang salah bagaimana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "Jika 4 pull request saya dikasih label invalid padahal gk ada yang salah bagaimana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "kalo 4 pr gw dikasih label invalid padahal tdk ada yang salah bagaimana ya"
+      },
+      {
+        "entities": [],
+        "intent": "ask_IfMyPRIsFindButGotAnInvalidLabel",
+        "text": "jika misinya gue dikasih label invalid padahal tdk ada yang salah, bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "Misinya gw ditandai gak termasuk dalam repo, maksudnya gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "4 pr gw ditandai nggak termasuk dalam repositori maksudnya bagaimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "Misinya gw ditandai enggak termasuk dalam repo maksudnya bagaimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "pr saya ditandai enggak termasuk dalam repositori, maksudnya bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "misi saya ditandai enggak termasuk dalam repositori, maksudnya bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "Misinya saya ditandai tidak termasuk dalam repositori maksudnya bagaimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "4 pr gue ditandai tdk termasuk dalam repository, maksudnya bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "4 pr aku ditandai tdk termasuk dalam repo, maksudnya bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "pr saya ditandai tidak termasuk dalam repo maksudnya gimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "4 pr gw ditandai gk termasuk dalam repository maksudnya bagaimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "4 pull request saya ditandai enggak termasuk dalam repo maksudnya gmana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "Misinya gue ditandai gk termasuk dalam repository maksudnya bagaimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "Pull request gw ditandai tdk termasuk dalam repositori maksudnya gimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "Misi gue ditandai enggak termasuk dalam repositori, maksudnya gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "4 pr aku ditandai nggak termasuk dalam repositori maksudnya gmana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "4 pr aku ditandai nggak termasuk dalam repositori maksudnya bagaimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "misinya gue ditandai tidak termasuk dalam repo, maksudnya bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "4 pr gw ditandai gk termasuk dalam repo maksudnya gmana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "Misi saya ditandai gk termasuk dalam repositori maksudnya bagaimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "Pull request saya ditandai gak termasuk dalam repo, maksudnya bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "pr gue ditandai tidak termasuk dalam repositori, maksudnya gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "Pull request aku ditandai gk termasuk dalam repository, maksudnya bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "misi saya ditandai gak termasuk dalam repo, maksudnya gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "misinya aku ditandai gk termasuk dalam repositori, maksudnya gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "4 pr aku ditandai tidak termasuk dalam repositori, maksudnya gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "Misi saya ditandai tdk termasuk dalam repositori maksudnya bagaimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "pr saya ditandai enggak termasuk dalam repo, maksudnya bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "misinya saya ditandai tidak termasuk dalam repo, maksudnya gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "pr gue ditandai gak termasuk dalam repositori, maksudnya bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "misi saya ditandai gak termasuk dalam repo, maksudnya gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "Pr gue ditandai gak termasuk dalam repositori maksudnya gmana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "Misinya saya ditandai enggak termasuk dalam repository maksudnya gmana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "pull request saya ditandai tidak termasuk dalam repository, maksudnya bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "pull request saya ditandai gak termasuk dalam repository, maksudnya bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "Misinya gw ditandai tdk termasuk dalam repositori, maksudnya gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "misi saya ditandai tidak termasuk dalam repo, maksudnya bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "pull request saya ditandai gak termasuk dalam repo, maksudnya bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "misi aku ditandai gak termasuk dalam repo maksudnya gimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "Pull request gw ditandai tidak termasuk dalam repository maksudnya bagaimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "pr aku ditandai enggak termasuk dalam repository maksudnya bagaimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "misi gue ditandai tdk termasuk dalam repository, maksudnya gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "Misi gue ditandai tidak termasuk dalam repo maksudnya bagaimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "4 pr gw ditandai tdk termasuk dalam repo maksudnya gmana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "misi gue ditandai enggak termasuk dalam repository maksudnya gmana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "Misi aku ditandai gk termasuk dalam repo, maksudnya gmana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "4 pull request aku ditandai tdk termasuk dalam repository, maksudnya bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "Misi gue ditandai gak termasuk dalam repository, maksudnya gimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "Pr gw ditandai tdk termasuk dalam repositori maksudnya gimana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "4 pull request gue ditandai gk termasuk dalam repo maksudnya gmana"
+      },
+      {
+        "entities": [],
+        "intent": "ask_myPRMarkedAsNotInRepo",
+        "text": "Pull request gw ditandai enggak termasuk dalam repo, maksudnya bagaimana ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "why misinya gw masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Knapa misinya aku masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Kenapa misinya gw masih dalam masa tunggu"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Kenapa 4 pr aku masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Why misinya saya masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Kenapa misinya gue masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "knapa 4 pull request gue masih dalam masa tunggu"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "knapa misinya gue masih dalam masa tunggu"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Kenapa misi saya masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Knapa 4 pull request aku masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "why pull request aku masih dalam masa tunggu"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Why misinya gw masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Why 4 pull request saya masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Why misi saya masih dalam masa tunggu"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "why misinya aku masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "kenapa misi gw masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Kenapa misi saya masih dalam masa tunggu"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "why pull request gw masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "why misi aku masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "kenapa misinya aku masih dalam masa tunggu"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Knapa pull request gw masih dalam masa tunggu"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "knapa misi saya masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "kenapa pull request gw masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "why 4 pull request gue masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "kenapa pr aku masih dalam masa tunggu"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "kenapa misinya saya masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Knapa 4 pull request gw masih dalam masa tunggu"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "why misinya gue masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Knapa misinya gw masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "kenapa 4 pr gw masih dalam masa tunggu"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "knapa misinya gw masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Kenapa pull request gw masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "why misi gue masih dalam masa tunggu"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Kenapa 4 pr gw masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "knapa misinya aku masih dalam masa tunggu"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Knapa misinya aku masih dalam masa tunggu"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Kenapa pr gw masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Kenapa misinya aku masih dalam masa tunggu"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Knapa misi gw masih dalam masa tunggu"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Knapa pull request saya masih dalam masa tunggu"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Kenapa 4 pr saya masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "why pr gue masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "knapa pull request saya masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "knapa misi gue masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "kenapa 4 pull request aku masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Why pr saya masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Why 4 pull request gue masih dalam masa tunggu"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "Why 4 pr gw masih dalam masa tunggu"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "kenapa misinya gue masih dalam masa tunggu ya?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whyMyPRStatusIsStillInReviewPeriod",
+        "text": "why pr gw masih dalam masa tunggu"
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}

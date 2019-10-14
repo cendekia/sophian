@@ -1,51 +1,675 @@
-## intent:affirm
-- yes
-- indeed
-- of course
-- that sounds good
-- correct
+## intent:ask_IGotRepoHowToHandleSpamPR
+- kalau aku yg punya repo, gimana cara menghadapi PR yg asal-asalan?
+- jikalau saya yang punya repo, gmana cara menghadapi PR yg ngasal?
+- jika gw yang punya repo bagaimana caranya menghadapi PR asal-asalan
+- Jika gw yang punya repo, gimana cara menghadapi PR yang ngasal?
+- kalo gw yang punya repo, gimana cara menghadapi PR yg spam?
+- kalau gue yg punya repo bagaimana cara menghadapi PR asal2an
+- jikalau saya yg punya repo, gmana caranya menghadapi PR yang asal2an?
+- kalo gue yang punya repo, bagaimana caranya menghadapi PR yang ngasal?
+- jika gw yang punya repo, gimana caranya menghadapi PR yg asal2an?
+- Jika aku yg punya repo, gmana caranya menghadapi PR yg spam?
+- apabila aku yang punya repo, gimana caranya menghadapi PR yang asal-asalan?
+- Apabila aku yg punya repo, gmana cara menghadapi PR yang ngasal?
+- Apabila saya yang punya repo bagaimana cara menghadapi PR asal2an
+- kalo saya yg punya repo, gmana caranya menghadapi PR yang spam?
+- Apabila gue yg punya repo, bagaimana cara menghadapi PR yang ngasal?
+- jikalau saya yg punya repo gmana caranya menghadapi PR ngasal
+- apabila saya yg punya repo bagaimana caranya menghadapi PR asal-asalan
+- Jikalau saya yg punya repo, bagaimana caranya menghadapi PR yang asal2an?
+- Kalau saya yg punya repo gimana cara menghadapi PR spam
+- Apabila gw yg punya repo, gmana cara menghadapi PR yang asal-asalan?
+- Apabila aku yang punya repo gimana caranya menghadapi PR spam
+- Kalo saya yg punya repo gmana cara menghadapi PR asal2an
+- Kalo gue yang punya repo bagaimana caranya menghadapi PR ngasal
+- kalau saya yang punya repo gmana cara menghadapi PR asal-asalan
+- Apabila aku yang punya repo gimana cara menghadapi PR asal-asalan
+- apabila aku yang punya repo gmana caranya menghadapi PR spam
+- Apabila saya yang punya repo bagaimana cara menghadapi PR asal-asalan
+- Jikalau gue yang punya repo bagaimana caranya menghadapi PR asal-asalan
+- kalau aku yg punya repo, bagaimana caranya menghadapi PR yang ngasal?
+- apabila gue yang punya repo, gimana cara menghadapi PR yang spam?
+- Apabila gw yg punya repo, gimana caranya menghadapi PR yang ngasal?
+- Kalau saya yg punya repo, gimana caranya menghadapi PR yang asal-asalan?
+- Apabila aku yang punya repo, gmana caranya menghadapi PR yg asal2an?
+- jikalau saya yang punya repo, gimana cara menghadapi PR yg asal-asalan?
+- Kalo gue yang punya repo gmana cara menghadapi PR spam
+- kalo gue yg punya repo gmana caranya menghadapi PR spam
+- Jikalau aku yg punya repo, gmana cara menghadapi PR yg asal2an?
+- Kalau saya yang punya repo gmana cara menghadapi PR ngasal
+- Kalo aku yg punya repo bagaimana caranya menghadapi PR spam
+- Jika gue yang punya repo, gimana cara menghadapi PR yang spam?
+- kalo gue yang punya repo, gimana cara menghadapi PR yg asal2an?
+- Kalo aku yg punya repo, gmana cara menghadapi PR yg ngasal?
+- Jika aku yang punya repo bagaimana caranya menghadapi PR asal2an
+- jikalau aku yg punya repo bagaimana caranya menghadapi PR asal2an
+- Kalo aku yang punya repo bagaimana caranya menghadapi PR asal2an
+- Jikalau gue yang punya repo gimana caranya menghadapi PR asal-asalan
+- apabila gue yang punya repo gimana caranya menghadapi PR ngasal
+- jikalau aku yg punya repo gimana cara menghadapi PR ngasal
+- Apabila gue yg punya repo gmana caranya menghadapi PR spam
+- Kalau gue yang punya repo gimana cara menghadapi PR asal-asalan
 
-## intent:deny
-- no
-- never
-- I don't think so
-- don't like that
-- no way
-- not really
+## intent:ask_IfMyPRIsFindButGotAnInvalidLabel
+- Kalau pull request aku dikasih label invalid padahal tidak ada yang salah, gimana ya?
+- jikalau misinya gue dikasih label invalid padahal nggak ada yang salah bagaimana ya
+- Apabila pull request gw dikasih label invalid padahal tidak ada yang salah, bagaimana ya?
+- kalo misinya saya dikasih label invalid padahal tidak ada yang salah gimana ya
+- kalo misi saya dikasih label invalid padahal gk ada yang salah gmana ya
+- jikalau misi aku dikasih label invalid padahal tidak ada yang salah gimana ya
+- jika pr aku dikasih label invalid padahal gk ada yang salah bagaimana ya
+- apabila misi gue dikasih label invalid padahal nggak ada yang salah, gimana ya?
+- Kalau 4 pr saya dikasih label invalid padahal gak ada yang salah bagaimana ya
+- jikalau misinya aku dikasih label invalid padahal nggak ada yang salah, gimana ya?
+- Kalau pull request gw dikasih label invalid padahal tdk ada yang salah bagaimana ya
+- Jika pull request gue dikasih label invalid padahal tdk ada yang salah gimana ya
+- Kalo misinya gw dikasih label invalid padahal tidak ada yang salah gmana ya
+- Kalo 4 pr gw dikasih label invalid padahal tidak ada yang salah, gimana ya?
+- jikalau misinya saya dikasih label invalid padahal nggak ada yang salah bagaimana ya
+- Apabila misinya gw dikasih label invalid padahal tdk ada yang salah gmana ya
+- Apabila misi saya dikasih label invalid padahal tdk ada yang salah bagaimana ya
+- jikalau 4 pr aku dikasih label invalid padahal gk ada yang salah, gimana ya?
+- Apabila misinya aku dikasih label invalid padahal enggak ada yang salah, gimana ya?
+- Apabila misi aku dikasih label invalid padahal enggak ada yang salah, bagaimana ya?
+- apabila 4 pull request saya dikasih label invalid padahal tidak ada yang salah, gmana ya?
+- Kalau pull request aku dikasih label invalid padahal tidak ada yang salah gmana ya
+- Kalo pull request aku dikasih label invalid padahal gk ada yang salah gimana ya
+- Jikalau 4 pull request gue dikasih label invalid padahal nggak ada yang salah, bagaimana ya?
+- Apabila misinya aku dikasih label invalid padahal gk ada yang salah, gimana ya?
+- jikalau pull request gue dikasih label invalid padahal gak ada yang salah gmana ya
+- kalau pr gue dikasih label invalid padahal nggak ada yang salah bagaimana ya
+- Apabila 4 pull request aku dikasih label invalid padahal nggak ada yang salah bagaimana ya
+- Kalau pull request gw dikasih label invalid padahal enggak ada yang salah bagaimana ya
+- Kalo misinya gw dikasih label invalid padahal nggak ada yang salah, gmana ya?
+- Jika misinya aku dikasih label invalid padahal tidak ada yang salah gmana ya
+- apabila pull request aku dikasih label invalid padahal gk ada yang salah, bagaimana ya?
+- jika 4 pr saya dikasih label invalid padahal gk ada yang salah, gmana ya?
+- kalau misinya gw dikasih label invalid padahal gk ada yang salah gimana ya
+- Jika pr gue dikasih label invalid padahal gak ada yang salah bagaimana ya
+- jikalau 4 pull request saya dikasih label invalid padahal gk ada yang salah, gmana ya?
+- jikalau misinya gw dikasih label invalid padahal gak ada yang salah gimana ya
+- Kalau misinya aku dikasih label invalid padahal nggak ada yang salah bagaimana ya
+- Kalau pull request saya dikasih label invalid padahal enggak ada yang salah gmana ya
+- kalo pull request aku dikasih label invalid padahal gk ada yang salah, gimana ya?
+- kalo pr gue dikasih label invalid padahal tidak ada yang salah, gmana ya?
+- apabila misinya aku dikasih label invalid padahal nggak ada yang salah, gmana ya?
+- Jika misinya gue dikasih label invalid padahal tidak ada yang salah, bagaimana ya?
+- Kalau misinya aku dikasih label invalid padahal tdk ada yang salah gmana ya
+- Kalau misinya aku dikasih label invalid padahal enggak ada yang salah, gmana ya?
+- Apabila misinya gue dikasih label invalid padahal gk ada yang salah, gimana ya?
+- jikalau pr gue dikasih label invalid padahal gak ada yang salah bagaimana ya
+- Jika 4 pull request saya dikasih label invalid padahal gk ada yang salah bagaimana ya
+- kalo 4 pr gw dikasih label invalid padahal tdk ada yang salah bagaimana ya
+- jika misinya gue dikasih label invalid padahal tdk ada yang salah, bagaimana ya?
 
-## intent:goodbye
-- bye
-- goodbye
-- see you around
-- see you later
+## intent:ask_hacktoberfestMean
+- [haktoberfest](hacktober)?
+- apaan arti [haktoberfest](hacktober)
+- [hacktoberfest](hacktober)
+- apaan arti [haktober](hacktober)?
+- Apa arti [haktober](hacktober)
+- [hacktoberfest](hacktober)?
+- [haktober](hacktober)
+- apaan [hacktoberfest](hacktober)?
+- apaan artinya [hacktoberfest](hacktober)?
+- Apaan [haktober](hacktober)
+- Apakah [haktober](hacktober)
+- Apaan [haktoberfest](hacktober)
+- apaan arti [haktoberfest](hacktober)?
+- apa artinya [hacktoberfest](hacktober)
+- Apaan [haktober](hacktober)?
+- apakah artinya [haktoberfest](hacktober)?
+- apaan [hacktoberfest](hacktober)
+- Apa artinya [haktober](hacktober)
+- apakah [haktoberfest](hacktober)?
+- Apa artinya [haktoberfest](hacktober)
+- [hacktober](hacktober)
+- Apakah [hacktober](hacktober)
+- apaan [hacktober](hacktober)
+- [haktober](hacktober)?
+- apakah [hacktoberfest](hacktober)?
+- Apaan artinya [hacktoberfest](hacktober)?
+- Apakah [haktober](hacktober)?
+- Apakah artinya [haktoberfest](hacktober)
+- [hacktober](hacktober)?
+- [haktoberfest](hacktober)
+- Apa [haktober](hacktober)?
+- apaan artinya [haktober](hacktober)
+- apaan [haktoberfest](hacktober)
+- Apaan arti [haktober](hacktober)
+- Apa [haktober](hacktober)
+- apa [haktoberfest](hacktober)?
+- apakah [haktober](hacktober)?
+- Apa [hacktober](hacktober)?
+- Apakah [hacktober](hacktober)?
+- apaan [haktoberfest](hacktober)?
+- Apaan [hacktober](hacktober)
+- Apakah [hacktoberfest](hacktober)?
+- Apa arti [hacktober](hacktober)?
+- Apaan arti [hacktoberfest](hacktober)
+- apakah [hacktober](hacktober)?
+- Apakah [haktoberfest](hacktober)
+- Apaan [hacktoberfest](hacktober)
+- Apa [hacktober](hacktober)
+- apa artinya [haktoberfest](hacktober)
+- apakah [haktober](hacktober)
 
-## intent:greet
-- hey
-- hello
-- hi
-- good morning
-- good evening
-- hey there
-- hai hai
+## intent:ask_howDoIGetTheSticker
+- bagaimana cara aku bisa dapat stikernya
+- Gimana caranya dapat kaos dan stikernya
+- gimana caranya dapat hadiah
+- Bagaimana cara bisa dapat swagnya?
+- gmana cara saya bisa dapat swagnya
+- gmana cara aku dapat swagnya?
+- Gimana caranya aku dapat swagnya?
+- Gmana cara saya dapat swagnya
+- gmana caranya saya dapat swagnya?
+- gmana caranya dapat kaos dan stikernya?
+- Gmana cara saya bisa dapat hadiah?
+- gimana cara gue bisa dapat swagnya?
+- bagaimana caranya dapat stikernya
+- Gmana cara gw dapat hadiah
+- bagaimana caranya bisa dapat kaos dan stikernya
+- gimana cara gue bisa dapat stikernya
+- Gimana cara bisa dapat kaos dan stikernya
+- Bagaimana cara bisa dapat kaosnya?
+- gmana caranya gue dapat stikernya?
+- gmana cara dapat stikernya?
+- bagaimana cara saya dapat swagnya
+- gimana cara gue bisa dapat kaos dan stikernya
+- gmana caranya dapat swagnya
+- gimana caranya bisa dapat kaosnya
+- Bagaimana cara aku bisa dapat hadiah
+- Bagaimana cara dapat stikernya?
+- gmana cara gw dapat swagnya
+- Gimana caranya bisa dapat hadiahnya
+- gmana cara aku bisa dapat kaos dan stikernya?
+- Bagaimana cara bisa dapat kaos dan stikernya
+- gmana caranya bisa dapat kaos dan stikernya?
+- bagaimana cara gw dapat stikernya
+- gmana caranya dapat stikernya
+- Gmana cara bisa dapat swagnya
+- gmana cara gw bisa dapat swagnya?
+- gimana caranya bisa dapat hadiahnya
+- bagaimana cara dapat hadiah
+- Bagaimana caranya bisa dapat hadiahnya?
+- Gmana caranya dapat swagnya?
+- Bagaimana caranya bisa dapat stikernya?
+- Gimana caranya bisa dapat hadiahnya?
+- Gimana cara gue dapat swagnya
+- bagaimana cara gw dapat kaos dan stikernya?
+- bagaimana cara saya bisa dapat swagnya?
+- Gmana cara bisa dapat stikernya
+- Bagaimana cara gw dapat swagnya?
+- bagaimana cara aku dapat kaos dan stikernya?
+- gmana caranya gue bisa dapat kaos dan stikernya
+- gmana caranya gue bisa dapat kaos dan stikernya?
+- Gmana caranya dapat kaosnya?
 
-## intent:mood_great
-- perfect
-- very good
-- great
-- amazing
-- wonderful
-- I am feeling very good
-- I am great
-- I'm good
+## intent:ask_howJoinHacktoberfest
+- gimana caranya untuk join acara ini?
+- Bagaimana caranya ikutnya
+- Gimana cara ikutannya
+- Gmana caranya join
+- gmana caranya ikutan
+- Gimana cara untuk ikut acara ini?
+- Bagaimana cara ikutnya
+- Bagaimana cara ikut
+- bagaimana cara untuk ikutnya acara ini?
+- gmana cara untuk ikutan acara ini?
+- Gimana cara join
+- gmana cara ikutnya
+- gimana caranya ikutnya
+- gmana cara ikutannya
+- gimana cara untuk ikut acara ini?
+- Bagaimana cara ikutannya
+- bagaimana caranya untuk ikut acara ini?
+- gimana cara untuk ikutnya acara ini?
+- gimana cara untuk ikutan acara ini?
+- Gimana cara ikutan
+- Gmana caranya untuk ikutannya acara ini?
+- Bagaimana cara ikutan
+- Bagaimana caranya untuk ikutnya acara ini?
+- Bagaimana cara untuk join acara ini?
+- Bagaimana caranya untuk ikutannya acara ini?
+- Gmana cara ikutannya
+- Gimana cara ikutnya
+- gmana cara untuk ikutnya acara ini?
+- gimana cara untuk ikutannya acara ini?
+- gimana cara ikutan
+- bagaimana caranya ikutannya
+- bagaimana cara ikutannya
+- Gimana caranya ikutnya
+- bagaimana cara untuk ikutannya acara ini?
+- Gmana caranya ikutnya
+- gmana cara untuk join acara ini?
+- Gmana cara ikutnya
+- Gmana cara untuk join acara ini?
+- gmana cara untuk ikutannya acara ini?
+- Gmana cara untuk ikutnya acara ini?
+- bagaimana caranya join
+- Gimana cara untuk ikutannya acara ini?
+- gimana caranya untuk ikutnya acara ini?
+- Bagaimana caranya untuk ikut acara ini?
+- gmana caranya ikutannya
+- bagaimana caranya untuk ikutnya acara ini?
+- gimana caranya untuk ikutannya acara ini?
+- gmana cara ikutan
+- Gimana cara untuk ikutan acara ini?
+- Gmana caranya untuk ikut acara ini?
 
-## intent:mood_unhappy
-- sad
-- very sad
-- unhappy
-- bad
-- very bad
-- awful
-- terrible
-- not very good
-- extremely sad
-- so sad
+## intent:ask_howToMakePeopleContributeToMyRepo
+- Caranya biar orang kontribusi direpo gue gmana ya?
+- Caranya biar orang kontribusi direpo gue gimana ya?
+- Caranya orang kontribusi direpo aku gimana
+- Cara orang kontribusi direpo saya gimana
+- cara orang kontribusi direpo saya gmana
+- Caranya biar orang kontribusi direpo gw bagaimana ya?
+- cara orang kontribusi direpo aku gmana
+- Cara orang kontribusi direpo gue gimana
+- cara biar orang kontribusi direpo aku bagaimana ya?
+- cara biar orang kontribusi direpo saya gmana ya?
+- cara biar orang kontribusi direpo gw bagaimana ya?
+- Cara orang kontribusi direpo aku bagaimana
+- Cara orang kontribusi direpo saya bagaimana
+- caranya orang kontribusi direpo aku gmana
+- Caranya biar orang kontribusi direpo gw gimana ya?
+- Caranya orang kontribusi direpo gue bagaimana
+- cara biar orang kontribusi direpo gue gmana ya?
+- Cara biar orang kontribusi direpo saya gimana ya?
+- cara orang kontribusi direpo gw bagaimana
+- Cara biar orang kontribusi direpo aku gmana ya?
+- Cara orang kontribusi direpo aku gmana
+- Cara biar orang kontribusi direpo saya bagaimana ya?
+- caranya biar orang kontribusi direpo gue gimana ya?
+- cara orang kontribusi direpo gue gmana
+- Caranya orang kontribusi direpo saya bagaimana
+- cara biar orang kontribusi direpo saya bagaimana ya?
+- Cara biar orang kontribusi direpo gw gmana ya?
+- Caranya biar orang kontribusi direpo saya gimana ya?
+- cara biar orang kontribusi direpo aku gimana ya?
+- Cara biar orang kontribusi direpo saya gmana ya?
+- Caranya biar orang kontribusi direpo gw gmana ya?
+- Caranya orang kontribusi direpo gue gmana
+- caranya orang kontribusi direpo aku bagaimana
+- caranya biar orang kontribusi direpo saya bagaimana ya?
+- caranya biar orang kontribusi direpo gw gimana ya?
+- Cara biar orang kontribusi direpo gw bagaimana ya?
+- Caranya biar orang kontribusi direpo aku bagaimana ya?
+- caranya biar orang kontribusi direpo gw gmana ya?
+- cara orang kontribusi direpo gw gimana
+- caranya orang kontribusi direpo aku gimana
+- Caranya orang kontribusi direpo aku gmana
+- Caranya orang kontribusi direpo gw gmana
+- caranya biar orang kontribusi direpo gue gmana ya?
+- caranya biar orang kontribusi direpo gw bagaimana ya?
+- caranya orang kontribusi direpo gw gimana
+- Caranya orang kontribusi direpo gw bagaimana
+- caranya biar orang kontribusi direpo aku gimana ya?
+- Caranya biar orang kontribusi direpo aku gimana ya?
+- Caranya orang kontribusi direpo aku bagaimana
+- cara biar orang kontribusi direpo gw gimana ya?
+
+## intent:ask_howToSeeMyHacktoberfestProgress
+- gimana caranya melihat progres?
+- Gimana cara melihat progres aku?
+- Gmana caranya melihat progres aku?
+- Bagaimana cara melihat progres saya
+- gmana caranya melihat progres?
+- Gimana cara melihat progres aku
+- gimana cara melihat progres
+- gmana cara melihat progres gue
+- bagaimana cara melihat progres
+- bagaimana cara melihat progres saya?
+- gimana caranya melihat progres saya
+- Gmana cara melihat progres
+- Bagaimana caranya melihat progres gw?
+- Bagaimana caranya melihat progres gue
+- gmana cara melihat progres saya
+- Gimana caranya melihat progres?
+- gmana cara melihat progres gw?
+- Bagaimana caranya melihat progres gw
+- Gimana cara melihat progres?
+- Bagaimana cara melihat progres
+- gmana caranya melihat progres gue
+- Gimana cara melihat progres gw
+- Bagaimana cara melihat progres aku
+- Gmana cara melihat progres gue?
+- Gmana cara melihat progres saya
+- Bagaimana cara melihat progres saya?
+- Gmana cara melihat progres?
+- Bagaimana cara melihat progres gue
+- bagaimana caranya melihat progres
+- Gimana caranya melihat progres aku?
+- Gimana caranya melihat progres
+- gimana caranya melihat progres gue?
+- Gmana caranya melihat progres saya
+- bagaimana caranya melihat progres gw?
+- gimana caranya melihat progres aku?
+- gimana cara melihat progres gw
+- Bagaimana caranya melihat progres?
+- Gimana cara melihat progres
+- Gmana caranya melihat progres
+- gmana caranya melihat progres
+- gmana caranya melihat progres aku
+- Gimana caranya melihat progres saya
+- gimana caranya melihat progres
+- Bagaimana cara melihat progres?
+- Gimana cara melihat progres saya
+- Gmana caranya melihat progres?
+- gimana cara melihat progres aku
+- gimana cara melihat progres gw?
+- bagaimana cara melihat progres saya
+- bagaimana caranya melihat progres gue?
+
+## intent:ask_ifItIsNotFinish
+- jika gue gak sampai selesaikan 4 pull request, tetap bisa dapat kaos dan stikernya tdk?
+- kalo saya enggak sampai selesai misinya dapat swagnya gk
+- apabila gak sampai kelarin misinya, tetep bisa dapat swagnya tdk?
+- apabila gue tidak sampe slesein 4 pull request dapat swagnya tidak
+- jikalau aku nggak sampai beresin misi bisa dapat hadiahnya nggak
+- Jikalau enggak sampai beres 4 pull request bisa dapat swagnya gk
+- jikalau gue gk sampai beresin 4 pull request, tetep bisa dapat hadiahnya enggak?
+- Apabila saya gak sampe kelarin 4 pr dapat stikernya tidak
+- Jikalau saya tidak sampe selesai misi, tetap bisa dapat kaos dan stikernya nggak?
+- jikalau gk sampe selesai pull request bisa dapat swagnya gak
+- jikalau gak sampai beres misi bisa dapat hadiah tdk
+- jika gw nggak sampai beresin misi, tetap dapat kaos dan stikernya nggak?
+- Apabila saya nggak sampe selesain misi, tetap dapat stikernya nggak?
+- jikalau tidak sampe kelarin 4 pull request, tetap dapat swagnya nggak?
+- apabila saya nggak sampe selesaikan 4 pr, tetep bisa dapat stikernya enggak?
+- apabila nggak sampai beres 4 pr, tetep dapat kaos dan stikernya gk?
+- Jikalau aku enggak sampai beresin misinya dapat kaos dan stikernya nggak
+- Kalo gak sampe beres misi dapat swagnya gk
+- Apabila aku tdk sampe beresin misi, tetap dapat hadiahnya gak?
+- apabila aku tidak sampai beresin pull request, tetep dapat hadiahnya tidak?
+- Jikalau saya tidak sampe kelar pr, tetap dapat stikernya gak?
+- Apabila tidak sampe beres 4 pull request, tetap dapat kaos dan stikernya gk?
+- Apabila saya gk sampai beresin misinya, tetap dapat stikernya tdk?
+- Apabila gue enggak sampe kelarin misi, tetep dapat hadiah tdk?
+- Apabila saya nggak sampai kelarin pr dapat hadiah gak
+- Apabila aku tdk sampe beres misinya, tetep bisa dapat swagnya nggak?
+- Kalau enggak sampai kelar pull request, tetap dapat hadiahnya tidak?
+- Apabila gak sampe slesein pr, tetap dapat hadiahnya gk?
+- jika tdk sampe kelar pull request, tetap bisa dapat kaos dan stikernya tdk?
+- apabila enggak sampai beres misinya, tetap bisa dapat hadiahnya tdk?
+- jika nggak sampai menyelesaikan misinya bisa dapat stikernya gk
+- Jikalau tdk sampe selesaikan 4 pull request, tetap bisa dapat swagnya tdk?
+- apabila tidak sampai kelar pr bisa dapat stikernya tidak
+- jika tdk sampe selesai misinya, tetap dapat hadiahnya nggak?
+- Apabila nggak sampai selesai 4 pr dapat stikernya tdk
+- Jika gw gak sampe menyelesaikan pr bisa dapat stikernya gk
+- apabila tidak sampai slesein misi dapat kaosnya gk
+- Apabila gue nggak sampai kelar pull request bisa dapat swagnya enggak
+- Kalau gw gk sampe slesein misinya dapat swagnya tdk
+- Apabila gw tdk sampe kelar 4 pull request bisa dapat stikernya tidak
+- Kalo gk sampe slesein misinya, tetep dapat swagnya tidak?
+- Jikalau gue enggak sampe kelar pull request, tetep dapat kaos dan stikernya tidak?
+- kalau tdk sampe menyelesaikan 4 pull request dapat kaosnya enggak
+- jika gw gak sampai beresin misinya dapat kaos dan stikernya tidak
+- apabila tdk sampe beresin misi, tetep dapat hadiahnya tidak?
+- kalau saya gk sampai slesein misi, tetep dapat swagnya enggak?
+- kalau saya nggak sampai selesain 4 pr dapat kaos dan stikernya gk
+- kalau enggak sampe beres pr, tetap dapat stikernya enggak?
+- apabila gue nggak sampai kelar pull request, tetap dapat swagnya nggak?
+- Apabila gw gk sampai selesai misinya, tetap dapat kaos dan stikernya nggak?
+
+## intent:ask_myPRIsNotCounted
+- hasil 4 pr gw sepertinya nggak dihitung, knapa ya?
+- hasil misi aku sepertinya tidak dihitung, knapa ya
+- Hasil pull request gw sepertinya gak dihitung, knapa ya
+- hasil pr gue kayaknya tdk dihitung, knapa ya?
+- Hasil 4 pull request saya kayaknya tdk dihitung, knapa ya
+- Hasil misinya gw sepertinya tdk dihitung, knapa ya
+- hasil pr aku kayaknya gk dihitung, knapa ya
+- hasil 4 pull request gue kayaknya nggak dihitung, knapa ya
+- hasil misi aku sepertinya gak dihitung, knapa ya
+- hasil 4 pr aku kayaknya nggak dihitung, knapa ya?
+- Hasil misinya aku sepertinya tdk dihitung, knapa ya
+- hasil misi saya sepertinya tdk dihitung, knapa ya?
+- hasil pr aku sepertinya tidak dihitung, knapa ya?
+- Hasil misinya saya kayaknya tidak dihitung, knapa ya?
+- hasil misi aku kayaknya tidak dihitung, knapa ya?
+- hasil pull request aku sepertinya tdk dihitung, knapa ya?
+- Hasil 4 pr aku sepertinya nggak dihitung, knapa ya
+- Hasil pr gue sepertinya nggak dihitung, knapa ya?
+- Hasil misinya saya kayaknya nggak dihitung, knapa ya
+- hasil pr gue kayaknya gk dihitung, knapa ya
+- hasil 4 pull request saya kayaknya tdk dihitung, knapa ya
+- hasil 4 pr aku sepertinya nggak dihitung, knapa ya
+- Hasil pull request gw kayaknya tdk dihitung, knapa ya
+- Hasil pull request gue kayaknya tidak dihitung, knapa ya?
+- Hasil 4 pull request gue sepertinya tidak dihitung, knapa ya
+- Hasil misinya gue kayaknya tidak dihitung, knapa ya
+- Hasil misi saya sepertinya nggak dihitung, knapa ya
+- Hasil misi gw kayaknya gk dihitung, knapa ya
+- hasil misi gue sepertinya tdk dihitung, knapa ya?
+- Hasil 4 pr gue sepertinya gk dihitung, knapa ya
+- hasil pr aku kayaknya nggak dihitung, knapa ya
+- hasil pull request aku kayaknya tidak dihitung, knapa ya?
+- hasil misinya aku kayaknya enggak dihitung, knapa ya?
+- hasil misinya aku kayaknya tdk dihitung, knapa ya?
+- Hasil misinya gw sepertinya enggak dihitung, knapa ya?
+- hasil misinya gw sepertinya tidak dihitung, knapa ya?
+- hasil 4 pull request gue sepertinya enggak dihitung, knapa ya
+- Hasil misi saya sepertinya gk dihitung, knapa ya
+- Hasil pr aku sepertinya gk dihitung, knapa ya
+- Hasil misi gw kayaknya tidak dihitung, knapa ya
+- Hasil pull request gue sepertinya tidak dihitung, knapa ya
+- hasil pr gue kayaknya gak dihitung, knapa ya?
+- Hasil misi saya sepertinya enggak dihitung, knapa ya?
+- Hasil pr saya kayaknya nggak dihitung, knapa ya
+- hasil misinya saya kayaknya nggak dihitung, knapa ya
+- hasil misinya saya kayaknya enggak dihitung, knapa ya
+- Hasil misi aku sepertinya enggak dihitung, knapa ya?
+- hasil misinya saya kayaknya enggak dihitung, knapa ya?
+- hasil misi saya sepertinya tidak dihitung, knapa ya
+- Hasil misinya saya sepertinya gk dihitung, knapa ya?
+
+## intent:ask_myPRMarkedAsNotInRepo
+- Misinya gw ditandai gak termasuk dalam repo, maksudnya gmana ya?
+- 4 pr gw ditandai nggak termasuk dalam repositori maksudnya bagaimana
+- Misinya gw ditandai enggak termasuk dalam repo maksudnya bagaimana
+- pr saya ditandai enggak termasuk dalam repositori, maksudnya bagaimana ya?
+- misi saya ditandai enggak termasuk dalam repositori, maksudnya bagaimana ya?
+- Misinya saya ditandai tidak termasuk dalam repositori maksudnya bagaimana
+- 4 pr gue ditandai tdk termasuk dalam repository, maksudnya bagaimana ya?
+- 4 pr aku ditandai tdk termasuk dalam repo, maksudnya bagaimana ya?
+- pr saya ditandai tidak termasuk dalam repo maksudnya gimana
+- 4 pr gw ditandai gk termasuk dalam repository maksudnya bagaimana
+- 4 pull request saya ditandai enggak termasuk dalam repo maksudnya gmana
+- Misinya gue ditandai gk termasuk dalam repository maksudnya bagaimana
+- Pull request gw ditandai tdk termasuk dalam repositori maksudnya gimana
+- Misi gue ditandai enggak termasuk dalam repositori, maksudnya gmana ya?
+- 4 pr aku ditandai nggak termasuk dalam repositori maksudnya gmana
+- 4 pr aku ditandai nggak termasuk dalam repositori maksudnya bagaimana
+- misinya gue ditandai tidak termasuk dalam repo, maksudnya bagaimana ya?
+- 4 pr gw ditandai gk termasuk dalam repo maksudnya gmana
+- Misi saya ditandai gk termasuk dalam repositori maksudnya bagaimana
+- Pull request saya ditandai gak termasuk dalam repo, maksudnya bagaimana ya?
+- pr gue ditandai tidak termasuk dalam repositori, maksudnya gmana ya?
+- Pull request aku ditandai gk termasuk dalam repository, maksudnya bagaimana ya?
+- misi saya ditandai gak termasuk dalam repo, maksudnya gimana ya?
+- misinya aku ditandai gk termasuk dalam repositori, maksudnya gmana ya?
+- 4 pr aku ditandai tidak termasuk dalam repositori, maksudnya gmana ya?
+- Misi saya ditandai tdk termasuk dalam repositori maksudnya bagaimana
+- pr saya ditandai enggak termasuk dalam repo, maksudnya bagaimana ya?
+- misinya saya ditandai tidak termasuk dalam repo, maksudnya gmana ya?
+- pr gue ditandai gak termasuk dalam repositori, maksudnya bagaimana ya?
+- misi saya ditandai gak termasuk dalam repo, maksudnya gmana ya?
+- Pr gue ditandai gak termasuk dalam repositori maksudnya gmana
+- Misinya saya ditandai enggak termasuk dalam repository maksudnya gmana
+- pull request saya ditandai tidak termasuk dalam repository, maksudnya bagaimana ya?
+- pull request saya ditandai gak termasuk dalam repository, maksudnya bagaimana ya?
+- Misinya gw ditandai tdk termasuk dalam repositori, maksudnya gimana ya?
+- misi saya ditandai tidak termasuk dalam repo, maksudnya bagaimana ya?
+- pull request saya ditandai gak termasuk dalam repo, maksudnya bagaimana ya?
+- misi aku ditandai gak termasuk dalam repo maksudnya gimana
+- Pull request gw ditandai tidak termasuk dalam repository maksudnya bagaimana
+- pr aku ditandai enggak termasuk dalam repository maksudnya bagaimana
+- misi gue ditandai tdk termasuk dalam repository, maksudnya gmana ya?
+- Misi gue ditandai tidak termasuk dalam repo maksudnya bagaimana
+- 4 pr gw ditandai tdk termasuk dalam repo maksudnya gmana
+- misi gue ditandai enggak termasuk dalam repository maksudnya gmana
+- Misi aku ditandai gk termasuk dalam repo, maksudnya gmana ya?
+- 4 pull request aku ditandai tdk termasuk dalam repository, maksudnya bagaimana ya?
+- Misi gue ditandai gak termasuk dalam repository, maksudnya gimana ya?
+- Pr gw ditandai tdk termasuk dalam repositori maksudnya gimana
+- 4 pull request gue ditandai gk termasuk dalam repo maksudnya gmana
+- Pull request gw ditandai enggak termasuk dalam repo, maksudnya bagaimana ya?
+
+## intent:ask_whenIGetTheSwag
+- Saya dah menyelesaikan misinya, kapan gw dapat stikernya
+- saya dah beresin pr, kapankah saya dapat kaosnya?
+- gw sudah kelar misi, kapankah aku dapat stikernya
+- saya sudah slesein misi, kapankah gue bisa dapat stikernya?
+- gw dah selesai misi, kapankah saya dapat swagnya
+- aku dah selesain 4 pr, kapankah gue dapat stikernya?
+- saya dah slesei 4 pull request, kapankah gw dapat kaos dan stikernya?
+- aku dah kelarin 4 pr, kapan gue dapat swagnya?
+- aku sudah kelar misinya, kapan gw dapat stikernya
+- Gue dah beres 4 pull request, kapan aku dapat stikernya?
+- saya dah selesai misinya, kapan gw bisa dapat hadiah?
+- Saya dah kelarin misinya, kapan aku dapat kaos dan stikernya?
+- saya dah selesain misi, kapan gue bisa dapat hadiahnya?
+- Saya sudah beresin pull request, kapankah gw dapat hadiahnya
+- Aku dah beres misi, kapankah gue bisa dapat kaosnya?
+- Gue dah beres misi, kapan gue bisa dapat kaosnya
+- aku sudah beresin misinya, kapankah gue dapat swagnya
+- aku dah kelarin misinya, kapankah gue dapat stikernya
+- saya dah selesai pull request, kapan gw bisa dapat kaos dan stikernya
+- Gue dah beresin 4 pr, kapankah gue dapat kaos dan stikernya?
+- Gue dah slesei 4 pull request, kapan gue bisa dapat swagnya?
+- Aku sudah kelar 4 pr, kapan aku dapat swagnya
+- gw dah beresin 4 pull request, kapankah saya bisa dapat stikernya?
+- Gue dah kelarin misinya, kapan gue dapat swagnya?
+- Aku sudah kelarin pull request, kapan aku bisa dapat kaosnya
+- Gw dah slesei 4 pull request, kapankah saya bisa dapat kaos dan stikernya
+- Saya sudah slesein misi, kapankah aku bisa dapat stikernya?
+- Gw sudah kelar pull request, kapan gw dapat kaos dan stikernya?
+- Saya sudah beres misi, kapankah aku dapat swagnya
+- aku sudah beres misinya, kapankah aku dapat swagnya?
+- gw dah beres misinya, kapankah saya dapat swagnya
+- saya dah beres 4 pull request, kapan gw dapat kaosnya
+- Gue dah kelarin misi, kapan aku dapat swagnya?
+- gw dah kelarin 4 pr, kapan aku dapat kaos dan stikernya
+- gue sudah kelarin misi, kapankah saya bisa dapat swagnya?
+- gue sudah menyelesaikan misinya, kapankah gue dapat kaosnya
+- gw sudah slesei misi, kapan saya dapat kaosnya?
+- aku dah beres misi, kapan aku bisa dapat kaosnya
+- aku sudah kelar misinya, kapan gue bisa dapat swagnya
+- gw dah kelarin 4 pull request, kapankah gue bisa dapat swagnya?
+- aku dah beres misi, kapan gue bisa dapat swagnya
+- gw sudah menyelesaikan 4 pr, kapan gw bisa dapat swagnya
+- Aku dah selesai misinya, kapankah saya dapat swagnya
+- Gw sudah beres misinya, kapankah gue bisa dapat swagnya
+- Aku sudah kelarin pull request, kapankah gue bisa dapat swagnya?
+- gue dah beresin pr, kapankah saya bisa dapat kaosnya?
+- Gw dah slesei misi, kapankah gue bisa dapat hadiahnya?
+- saya sudah kelar misi, kapan gw bisa dapat hadiah
+- Gue dah beresin misinya, kapan aku dapat kaosnya?
+- gw sudah beres misinya, kapan gw bisa dapat kaos dan stikernya?
+
+## intent:ask_whyMyPRLabeledAsInvalid
+- Knapa pr saya dikasih label invalid?
+- knapa 4 pr gue dikasih label invalid
+- knapa 4 pull request saya dikasih label invalid?
+- Knapa pull request aku dikasih label invalid
+- Knapa misi saya dikasih label invalid
+- Knapa 4 pull request gw dikasih label invalid?
+- knapa pull request saya dikasih label invalid
+- knapa 4 pr aku dikasih label invalid?
+- Knapa misinya aku dikasih label invalid?
+- knapa 4 pull request aku dikasih label invalid?
+- Knapa 4 pr gue dikasih label invalid
+- knapa pr gw dikasih label invalid?
+- knapa misi aku dikasih label invalid?
+- knapa misi gw dikasih label invalid
+- Knapa misi saya dikasih label invalid?
+- Knapa misi gw dikasih label invalid
+- Knapa pr saya dikasih label invalid
+- Knapa 4 pull request aku dikasih label invalid
+- knapa pr gue dikasih label invalid?
+- knapa pr aku dikasih label invalid?
+- Knapa 4 pr aku dikasih label invalid
+- knapa misinya gw dikasih label invalid
+- knapa pull request gue dikasih label invalid?
+- knapa misinya saya dikasih label invalid?
+- knapa misi saya dikasih label invalid?
+- Knapa misinya aku dikasih label invalid
+- knapa pull request aku dikasih label invalid?
+- Knapa misinya saya dikasih label invalid
+- knapa misinya gue dikasih label invalid
+- knapa 4 pr gue dikasih label invalid?
+- knapa 4 pr gw dikasih label invalid
+- knapa pull request aku dikasih label invalid
+- Knapa pr aku dikasih label invalid?
+- knapa 4 pull request saya dikasih label invalid
+- Knapa misi aku dikasih label invalid
+- Knapa 4 pull request gue dikasih label invalid?
+- Knapa 4 pr saya dikasih label invalid?
+- Knapa misi aku dikasih label invalid?
+- knapa pr gw dikasih label invalid
+- Knapa pull request gue dikasih label invalid?
+- Knapa 4 pr gw dikasih label invalid
+- Knapa 4 pull request gue dikasih label invalid
+- Knapa pr gue dikasih label invalid?
+- knapa misinya gw dikasih label invalid?
+- knapa 4 pull request aku dikasih label invalid
+- knapa misi gw dikasih label invalid?
+- knapa pull request saya dikasih label invalid?
+- Knapa 4 pull request aku dikasih label invalid?
+- Knapa 4 pr gw dikasih label invalid?
+- knapa 4 pr gw dikasih label invalid?
+
+## intent:ask_whyMyPRStatusIsStillInReviewPeriod
+- why misinya gw masih dalam masa tunggu ya?
+- Knapa misinya aku masih dalam masa tunggu ya?
+- Kenapa misinya gw masih dalam masa tunggu
+- Kenapa 4 pr aku masih dalam masa tunggu ya?
+- Why misinya saya masih dalam masa tunggu ya?
+- Kenapa misinya gue masih dalam masa tunggu ya?
+- knapa 4 pull request gue masih dalam masa tunggu
+- knapa misinya gue masih dalam masa tunggu
+- Kenapa misi saya masih dalam masa tunggu ya?
+- Knapa 4 pull request aku masih dalam masa tunggu ya?
+- why pull request aku masih dalam masa tunggu
+- Why misinya gw masih dalam masa tunggu ya?
+- Why 4 pull request saya masih dalam masa tunggu ya?
+- Why misi saya masih dalam masa tunggu
+- why misinya aku masih dalam masa tunggu ya?
+- kenapa misi gw masih dalam masa tunggu ya?
+- Kenapa misi saya masih dalam masa tunggu
+- why pull request gw masih dalam masa tunggu ya?
+- why misi aku masih dalam masa tunggu ya?
+- kenapa misinya aku masih dalam masa tunggu
+- Knapa pull request gw masih dalam masa tunggu
+- knapa misi saya masih dalam masa tunggu ya?
+- kenapa pull request gw masih dalam masa tunggu ya?
+- why 4 pull request gue masih dalam masa tunggu ya?
+- kenapa pr aku masih dalam masa tunggu
+- kenapa misinya saya masih dalam masa tunggu ya?
+- Knapa 4 pull request gw masih dalam masa tunggu
+- why misinya gue masih dalam masa tunggu ya?
+- Knapa misinya gw masih dalam masa tunggu ya?
+- kenapa 4 pr gw masih dalam masa tunggu
+- knapa misinya gw masih dalam masa tunggu ya?
+- Kenapa pull request gw masih dalam masa tunggu ya?
+- why misi gue masih dalam masa tunggu
+- Kenapa 4 pr gw masih dalam masa tunggu ya?
+- knapa misinya aku masih dalam masa tunggu
+- Knapa misinya aku masih dalam masa tunggu
+- Kenapa pr gw masih dalam masa tunggu ya?
+- Kenapa misinya aku masih dalam masa tunggu
+- Knapa misi gw masih dalam masa tunggu
+- Knapa pull request saya masih dalam masa tunggu
+- Kenapa 4 pr saya masih dalam masa tunggu ya?
+- why pr gue masih dalam masa tunggu ya?
+- knapa pull request saya masih dalam masa tunggu ya?
+- knapa misi gue masih dalam masa tunggu ya?
+- kenapa 4 pull request aku masih dalam masa tunggu ya?
+- Why pr saya masih dalam masa tunggu ya?
+- Why 4 pull request gue masih dalam masa tunggu
+- Why 4 pr gw masih dalam masa tunggu
+- kenapa misinya gue masih dalam masa tunggu ya?
+- why pr gw masih dalam masa tunggu

@@ -1,0 +1,122 @@
+~[hi]
+    {hi/hello/hey}
+    {hai/halo}
+
+~[thanks]
+    {thanks/thank you}
+    {terima kasih}
+
+~[bagaimana]
+    {bagaimana/gmana/gimana}
+
+~[kabar]
+    {kabar}mu
+    {kabar} kamu
+
+~[apa]
+    {apakah/apa/apaan}
+
+~[arti]
+    {arti/artinya}
+
+~[apa arti]
+    ~[apa] ~[arti?]
+    ~[apa] {yang dimaksud/itu?}
+
+~[artinya adalah]
+    {adalah/ialah/yaitu/artinya} {apa?}
+    {apa/apaan} {ya/sih} {artinya?}
+
+~[sih]
+    {sih/ya/aja/aja sih}
+
+~[apa ya]
+    {apa} ~[sih?]
+
+~[lainnya]
+    {~[lain]nya/yang ~[lain]/yg ~[lain]}
+
+~[lain]
+    {lain/laen}
+
+~[memang]
+    {memang/mang}
+
+~[yang bisa]
+    ~[yang] ~[bisa]
+
+~[yang ada]
+    ~[yang] ada
+
+~[yang]
+    {yang/yg}
+
+~[bisa]
+    {bisa/dapat/boleh}
+
+~[beda]
+    {beda/perbedaan}
+
+~[dibanding]
+    ~[dengan]
+    {dibanding/dibandingkan}
+
+~[dengan]
+    {dengan/dan}
+
+~[join]
+    {ikutan/ikut/join}
+    {ikutannya/ikutnya}
+
+~[cara]
+    {cara/caranya}
+
+~[saya]
+    {saya/gw/gue/aku}
+
+~[sudah]
+    {sudah/dah}
+
+~[menyelesaikan]
+    {menyelesaikan/slesein/selesaikan/selesain/selesai/slesei}
+    {beresin/beres}
+    {kelar/kelarin}
+
+~[pr]
+    {pull request/pr/4 pr/4 pull request}
+    {misi/misinya}
+
+~[kapan]
+    {kapan/kapankah}
+
+~[dapat]
+    {dapat/bisa dapat}
+
+~[hadiah]
+    {hadiah/hadiahnya}
+    {kaos dan stikernya}
+    {swagnya}
+    {kaosnya/stikernya}
+
+~[kalau]
+    {kalau/kalo}
+    {jika/jikalau}
+    {apabila}
+
+~[sampai]
+    {sampai/sampe}
+
+~[tetap]
+    {tetap/tetep}
+
+~[tidak]
+    {tidak/tdk/gak/gk/enggak/nggak}
+
+~[sepertinya]
+    {sepertinya/kayaknya}
+
+~[repo]
+    {repo/repository/repositori}
+
+~[kenapa]
+    {kenapa/knapa/why}

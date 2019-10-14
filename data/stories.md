@@ -1,32 +1,43 @@
-## happy path
-* greet
-  - utter_greet
-* mood_great
-  - utter_happy
+## ask_IGotRepoHowToHandleSpamPR
+* ask_IGotRepoHowToHandleSpamPR
+  - utter_spamPR
 
-## sad path 1
-* greet
-  - utter_greet
-* mood_unhappy
-  - utter_cheer_up
-  - utter_did_that_help
-* affirm
-  - utter_happy
+## ask_IfMyPRIsFindButGotAnInvalidLabel
+* ask_IfMyPRIsFindButGotAnInvalidLabel
+  - utter_invalidLabel
 
-## sad path 2
-* greet
-  - utter_greet
-* mood_unhappy
-  - utter_cheer_up
-  - utter_did_that_help
-* deny
-  - utter_goodbye
+## ask_hacktoberfestMean
+* ask_hacktoberfestMean
+  - utter_explainHacktoberfest
 
-## say goodbye
-* goodbye
-  - utter_goodbye
+## ask_howDoIGetTheSticker
+* ask_howDoIGetTheSticker
+  - utter_getSticker
 
-## New Story
+## ask_howJoinHacktoberfest
+* ask_howJoinHacktoberfest
+  - utter_joinHacktoberfest
 
-* greet
-    - utter_greet
+## ask_ifItIsNotFinish
+* ask_ifItIsNotFinish
+  - utter_ifItIsNotFinish
+
+## ask_whyMyPRLabeledAsInvalid
+* ask_whyMyPRLabeledAsInvalid
+  - utter_whyMyPRLabeledAsInvalid
+
+## ask_whyMyPRStatusIsStillInReviewPeriod
+* ask_whyMyPRStatusIsStillInReviewPeriod
+  - utter_whyMyPRStatusIsStillInReviewPeriod
+
+## ask_howToMakePeopleContributeToMyRepo
+* ask_howToMakePeopleContributeToMyRepo
+  - utter_howToMakePeopleContributeToMyRepo
+
+## ask_whenIGetTheSwag
+* ask_whenIGetTheSwag
+  - utter_whenIGetTheSwag
+
+## ask_myPRIsNotCounted
+* ask_myPRIsNotCounted
+  - utter_myPRIsNotCounted
