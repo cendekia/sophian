@@ -13,11 +13,11 @@
 // Apakah PR dibuat dengan repositori saya sendiri?
 //     Ya, tetapi kami sangat menganjurkan Anda untuk memberikan kontribusi berkualitas ke repositori lain.
 
-// Bisakah saya membuat PR untuk masalah / repo yang tidak terdaftar di beranda?
+// Bisakah saya membuat PR untuk issue / repo yang tidak terdaftar di homepage github?
 //     Ya, setiap repo publik GitHub baik untuk Hacktoberfest.
 
-// Apakah banyak PR dengan jumlah repo yang sama?
+// Apakah PR berkali-kali di repo yang sama akan dihitung?
 //     Ya, setiap permintaan tarik akan dihitung secara terpisah.
 
-// Apakah PR harus diterima / digabung?
+// Apakah PR harus ditrima/dimerge?
 //     Tidak, mereka akan tetap menghitung kecuali mereka adalah spam, tidak relevan, atau dilabeli sebagai tidak valid.
