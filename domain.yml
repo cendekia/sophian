@@ -66,6 +66,20 @@ templates:
   - text: Sayangnya, PR Anda yang dibuat di repositori tidak memenuhi kriteria Hacktoberfest. Kami telah memutuskan bahwa PR yang dibuat ke repositori ini tidak akan dihitung untuk menyelesaikan tantangan.
   utter_myPRIsNotCounted:
   - text: "Untuk Hacktoberfest, PR pada GitHub tidak akan dihitung sampai mereka ditandai sebagai 'ready for review': yang ditandai sebagai konsep/draft tidak akan dihitung. Harap pastikan untuk menandai ulang setiap draft PR sebagai 'ready for review' sehingga maintainers dapat merge PR Anda."
+  utter_contributeNonGithub:
+  - text: Tidak, PR harus dibuat pada platform GitHub.
+  utter_issueNCommitCount:
+  - text: Tidak, hanya PR yang dihitung.
+  utter_midSignupIsItCount:
+  - text: Ya, semua permintaan tarik yang dibuat antara 1 Oktober dan 31 Oktober akan dihitung, terlepas dari kapan Anda mendaftar untuk Hacktoberfest. Tarik permintaan yang dibuat sebelum 1 Oktober tetapi digabung setelah tidak masuk hitungan.
+  utter_hacktoberfestLabel:
+  - text: Tidak, permintaan penarikan apa pun yang dibuat pada jumlah penyimpanan publik, apakah itu terlampir pada masalah Hacktoberfest atau tidak.
+  utter_notInHomePage:
+  - text: Ya, setiap repo publik GitHub baik untuk Hacktoberfest.
+  utter_multiplePR:
+  - text: Ya, setiap PR akan dihitung secara terpisah.
+  utter_mergedPR:
+  - text: Tidak, mereka akan tetap menghitung kecuali spam, tidak relevan, atau dilabeli sebagai tidak valid.
 actions:
 - utter_invalidLabel
 - utter_spamPR
@@ -79,3 +93,10 @@ actions:
 - utter_whenIGetTheSwag
 - utter_myPRMarkedAsNotInRepo
 - utter_myPRIsNotCounted
+- utter_contributeNonGithub
+- utter_issueNCommitCount
+- utter_midSignupIsItCount
+- utter_hacktoberfestLabel
+- utter_notInHomePage
+- utter_multiplePR
+- utter_mergedPR

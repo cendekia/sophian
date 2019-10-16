@@ -1,0 +1,23 @@
+// Apakah kontribusi yang dilakukan di luar GitHub masuk hitungan?
+//     Tidak, PR harus dibuat pada platform GitHub.
+
+// Apakah issue dan commit dihitung?
+//     Tidak, hanya PR yang diperhitungkan.
+
+// Saya mendaftar untuk Hacktoberfest pertengahan Oktober. Akankah PR yang saya buat lebih awal di bulan Oktober?
+//     Ya, semua permintaan tarik yang dibuat antara 1 Oktober dan 31 Oktober akan dihitung, terlepas dari kapan Anda mendaftar untuk Hacktoberfest. Tarik permintaan yang dibuat sebelum 1 Oktober tetapi digabung setelah tidak masuk hitungan.
+
+// Apakah issue harus diberi label Hacktoberfest untuk dihitung?
+//     Tidak, permintaan penarikan apa pun yang dibuat pada jumlah penyimpanan publik, apakah itu terlampir pada masalah Hacktoberfest atau tidak.
+
+// Apakah PR dibuat dengan repositori saya sendiri?
+//     Ya, tetapi kami sangat menganjurkan Anda untuk memberikan kontribusi berkualitas ke repositori lain.
+
+// Bisakah saya membuat PR untuk masalah / repo yang tidak terdaftar di beranda?
+//     Ya, setiap repo publik GitHub baik untuk Hacktoberfest.
+
+// Apakah banyak PR dengan jumlah repo yang sama?
+//     Ya, setiap permintaan tarik akan dihitung secara terpisah.
+
+// Apakah PR harus diterima / digabung?
+//     Tidak, mereka akan tetap menghitung kecuali mereka adalah spam, tidak relevan, atau dilabeli sebagai tidak valid.
