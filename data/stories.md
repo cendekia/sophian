@@ -41,3 +41,7 @@
 ## ask_myPRIsNotCounted
 * ask_myPRIsNotCounted
   - utter_myPRIsNotCounted
+
+## ask_contributeNonGithub
+* ask_contributeNonGithub
+  - utter_contributeNonGithub

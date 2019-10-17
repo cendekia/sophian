@@ -12,6 +12,8 @@ intents:
 - ask_myPRMarkedAsNotInRepo
 - ask_myPRIsNotCounted
 - ask_howToSeeMyHacktoberfestProgress
+- ask_contributeNonGithub
+
 entities:
 - hacktober
 templates:

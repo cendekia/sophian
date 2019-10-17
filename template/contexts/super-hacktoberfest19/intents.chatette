@@ -3,54 +3,54 @@
 // #GENERAL
 
 // 1. Apa itu Hacktoberfest?
-%[&ask_hacktoberfestMean](50)
+%[&ask_hacktoberfestMean](10)
     ~[apa arti] @[hacktober][\??]
     @[hacktober][\??]
 
 // 2. Bagaimana cara untuk ikutan acara ini?
-%[&ask_howJoinHacktoberfest](50)
+%[&ask_howJoinHacktoberfest](10)
     ~[bagaimana] ~[cara] [untuk?] ~[join] [acara ini?][\??]
 
 // 3. Bagaimana cara melihat progres saya?
-%[&ask_howToSeeMyHacktoberfestProgress](50)
+%[&ask_howToSeeMyHacktoberfestProgress](10)
     ~[bagaimana] ~[cara] {melihat} {progres} ~[saya?][\??]
 
 // 4. Saya sudah menyelesaikan 4 PR, kapan saya dapet hadiah kaosnya?
-%[&ask_whenIGetTheSwag](50)
+%[&ask_whenIGetTheSwag](10)
     ~[saya] ~[sudah] ~[menyelesaikan] ~[pr], ~[kapan] ~[saya] ~[dapat] ~[hadiah][\??]
 
 // 5. Bagaimana cara saya dapat stikernya?
-%[&ask_howDoIGetTheSticker](50)
+%[&ask_howDoIGetTheSticker](10)
     ~[bagaimana] ~[cara] ~[saya?] ~[dapat] ~[hadiah][\??]
 
 // 6. Kalau saya tidak sampe menyelesaikan 4 PR, tetep dapet hadiah gk?
-%[&ask_ifItIsNotFinish](50)
+%[&ask_ifItIsNotFinish](10)
     ~[kalau] ~[saya?] ~[tidak] ~[sampai] ~[menyelesaikan] ~[pr][,?] ~[tetap?] ~[dapat] ~[hadiah] ~[tidak][\??]
 
 // 7. Kalau aku yang punya repo, bagaimana cara saya menghadapi PR yang asal2an?
-%[&ask_IGotRepoHowToHandleSpamPR](50)
+%[&ask_IGotRepoHowToHandleSpamPR](10)
     ~[kalau] ~[saya] ~[yang] {punya repo}[,?] ~[bagaimana] ~[cara] {menghadapi} PR ~[yang?] {asal2an/asal-asalan/ngasal/spam}[\??]
 
 // 8. Caranya biar orang kontribusi di repo saya gmana ya?
-%[&ask_howToMakePeopleContributeToMyRepo](50)
+%[&ask_howToMakePeopleContributeToMyRepo](10)
     ~[cara] [biar?] {orang} {kontribusi} {direpo} ~[saya] ~[bagaimana] [ya?][\??]
 
 // 9. Hasil PR saya kayaknya gak dihitung, knapa ya?
-%[&ask_myPRIsNotCounted](50)
+%[&ask_myPRIsNotCounted](10)
     {hasil} ~[pr] ~[saya] ~[sepertinya] ~[tidak] {dihitung}, {knapa} {ya}[\??]
 
 // 10. Knapa PR saya dikasih label invalid ama yang punya repo?
-%[&ask_whyMyPRLabeledAsInvalid](50)
+%[&ask_whyMyPRLabeledAsInvalid](10)
     {knapa} ~[pr] ~[saya] {dikasih} {label} {invalid}[\??]
 
 // 11. Klo PR saya dikasih label invalid padahal PR saya gk ada yang salah, gimana tuh?
-%[&ask_IfMyPRIsFindButGotAnInvalidLabel](50)
+%[&ask_IfMyPRIsFindButGotAnInvalidLabel](10)
     ~[kalau] ~[pr] ~[saya] {dikasih} {label} {invalid} {padahal} ~[tidak] {ada} {yang} {salah}[,?] ~[bagaimana] {ya}[\??]
 
 // 12. PR saya ditandai gk termasuk dalam repository, maksudnya gmana ya?
-%[&ask_myPRMarkedAsNotInRepo](50)
+%[&ask_myPRMarkedAsNotInRepo](10)
     ~[pr] ~[saya] {ditandai} ~[tidak] termasuk dalam ~[repo][,?] {maksudnya} ~[bagaimana] [ya?][\??]
 
 // 13. Knapa status PR saya masih dalam masa tunggu ya?
-%[&ask_whyMyPRStatusIsStillInReviewPeriod](50)
+%[&ask_whyMyPRStatusIsStillInReviewPeriod](10)
     ~[kenapa] ~[pr] ~[saya] {masih} {dalam} {masa} {tunggu} [ya?][\??]

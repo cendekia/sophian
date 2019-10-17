@@ -1,5 +1,8 @@
 // Apakah kontribusi yang dilakukan di luar GitHub masuk hitungan?
 //     Tidak, PR harus dibuat pada platform GitHub.
+%[&ask_contributeNonGithub](10)
+    ~[apa] kontribusi ~[yang] {dilakukan/dikerjakan} di luar GitHub {masuk hitungan/dihitung}?
+
 
 // Apakah issue dan commit dihitung?
 //     Tidak, hanya PR yang diperhitungkan.
